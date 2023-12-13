@@ -1,0 +1,2585 @@
+Reactions,Subsystems
+ALAR,Alanine and Aspartate Metabolism
+ALATA_L,Alanine and Aspartate Metabolism
+ASNN,Alanine and Aspartate Metabolism
+ASNNpp,Alanine and Aspartate Metabolism
+ASNS1,Alanine and Aspartate Metabolism
+ASNS2,Alanine and Aspartate Metabolism
+ASPT,Alanine and Aspartate Metabolism
+ASPTA,Alanine and Aspartate Metabolism
+DAAD,Alanine and Aspartate Metabolism
+2DGULRGx,Alternate Carbon Metabolism
+2DGULRGy,Alternate Carbon Metabolism
+2DGULRx,Alternate Carbon Metabolism
+2DGULRy,Alternate Carbon Metabolism
+3HCINNMH,Alternate Carbon Metabolism
+3HPPPNH,Alternate Carbon Metabolism
+3KGK,Alternate Carbon Metabolism
+3OXCOAT,Alternate Carbon Metabolism
+5DGLCNR,Alternate Carbon Metabolism
+A5PISO,Alternate Carbon Metabolism
+AAMYL,Alternate Carbon Metabolism
+AAMYLpp,Alternate Carbon Metabolism
+AB6PGH,Alternate Carbon Metabolism
+ACACCT,Alternate Carbon Metabolism
+ACCOAL,Alternate Carbon Metabolism
+ACGAL1PPpp,Alternate Carbon Metabolism
+ACGAM1PPpp,Alternate Carbon Metabolism
+ACM6PH,Alternate Carbon Metabolism
+ACNML,Alternate Carbon Metabolism
+ADNUC,Alternate Carbon Metabolism
+AGDC,Alternate Carbon Metabolism
+ALCD19,Alternate Carbon Metabolism
+ALDD19xr,Alternate Carbon Metabolism
+ALDD2x,Alternate Carbon Metabolism
+ALDD2y,Alternate Carbon Metabolism
+ALDD3y,Alternate Carbon Metabolism
+ALDD4,Alternate Carbon Metabolism
+ALLK,Alternate Carbon Metabolism
+ALLPI,Alternate Carbon Metabolism
+ALLTAMH,Alternate Carbon Metabolism
+ALLULPE,Alternate Carbon Metabolism
+ALTRH,Alternate Carbon Metabolism
+AMALT1,Alternate Carbon Metabolism
+AMALT2,Alternate Carbon Metabolism
+AMALT3,Alternate Carbon Metabolism
+AMALT4,Alternate Carbon Metabolism
+AMANAPEr,Alternate Carbon Metabolism
+AMANK,Alternate Carbon Metabolism
+ARAI,Alternate Carbon Metabolism
+ASCBPL,Alternate Carbon Metabolism
+BUTCT,Alternate Carbon Metabolism
+CINNDO,Alternate Carbon Metabolism
+CYTDH,Alternate Carbon Metabolism
+DAPAL,Alternate Carbon Metabolism
+DC6PH,Alternate Carbon Metabolism
+DDGALK,Alternate Carbon Metabolism
+DDGLK,Alternate Carbon Metabolism
+DDPGALA,Alternate Carbon Metabolism
+DHACOAH,Alternate Carbon Metabolism
+DHAPT,Alternate Carbon Metabolism
+DHCIND,Alternate Carbon Metabolism
+DHCINDO,Alternate Carbon Metabolism
+DHPPD,Alternate Carbon Metabolism
+DHPTDNR,Alternate Carbon Metabolism
+DHPTDNRN,Alternate Carbon Metabolism
+DKGLCNR1,Alternate Carbon Metabolism
+DKGLCNR2x,Alternate Carbon Metabolism
+DKGLCNR2y,Alternate Carbon Metabolism
+DOGULNR,Alternate Carbon Metabolism
+DRPA,Alternate Carbon Metabolism
+DTARTD,Alternate Carbon Metabolism
+F6PP,Alternate Carbon Metabolism
+FCI,Alternate Carbon Metabolism
+FCLK,Alternate Carbon Metabolism
+FCLPA,Alternate Carbon Metabolism
+FFSD,Alternate Carbon Metabolism
+FORCT,Alternate Carbon Metabolism
+FRUK,Alternate Carbon Metabolism
+FRULYSDG,Alternate Carbon Metabolism
+FRULYSE,Alternate Carbon Metabolism
+FRULYSK,Alternate Carbon Metabolism
+G2PP,Alternate Carbon Metabolism
+G2PPpp,Alternate Carbon Metabolism
+G3PD2,Alternate Carbon Metabolism
+G3PT,Alternate Carbon Metabolism
+G6PDA,Alternate Carbon Metabolism
+GAL1PPpp,Alternate Carbon Metabolism
+GALCTD,Alternate Carbon Metabolism
+GALCTLO,Alternate Carbon Metabolism
+GALCTND,Alternate Carbon Metabolism
+GALKr,Alternate Carbon Metabolism
+GALM2pp,Alternate Carbon Metabolism
+GALS3,Alternate Carbon Metabolism
+GGGABADr,Alternate Carbon Metabolism
+GGGABAH,Alternate Carbon Metabolism
+GGPTRCO,Alternate Carbon Metabolism
+GGPTRCS,Alternate Carbon Metabolism
+GLCATr,Alternate Carbon Metabolism
+GLCRAL,Alternate Carbon Metabolism
+GLCRD,Alternate Carbon Metabolism
+GLTPD,Alternate Carbon Metabolism
+GLYCDx,Alternate Carbon Metabolism
+GLYCTO2,Alternate Carbon Metabolism
+GLYCTO3,Alternate Carbon Metabolism
+GLYCTO4,Alternate Carbon Metabolism
+GLYK,Alternate Carbon Metabolism
+GNK,Alternate Carbon Metabolism
+GUI1,Alternate Carbon Metabolism
+GUI2,Alternate Carbon Metabolism
+GUR1PPpp,Alternate Carbon Metabolism
+HADPCOADH3,Alternate Carbon Metabolism
+HEX4,Alternate Carbon Metabolism
+HEX7,Alternate Carbon Metabolism
+HKNDDH,Alternate Carbon Metabolism
+HKNTDH,Alternate Carbon Metabolism
+HOPNTAL,Alternate Carbon Metabolism
+HPPPNDO,Alternate Carbon Metabolism
+HPYRI,Alternate Carbon Metabolism
+HPYRRx,Alternate Carbon Metabolism
+HPYRRy,Alternate Carbon Metabolism
+HXCT,Alternate Carbon Metabolism
+IDOND,Alternate Carbon Metabolism
+IDOND2,Alternate Carbon Metabolism
+KG6PDC,Alternate Carbon Metabolism
+LACZ,Alternate Carbon Metabolism
+LACZpp,Alternate Carbon Metabolism
+LCADi,Alternate Carbon Metabolism
+LCARS,Alternate Carbon Metabolism
+LYXI,Alternate Carbon Metabolism
+M1PD,Alternate Carbon Metabolism
+MALDDH,Alternate Carbon Metabolism
+MALTATr,Alternate Carbon Metabolism
+MAN6PI,Alternate Carbon Metabolism
+MANAO,Alternate Carbon Metabolism
+MANPGH,Alternate Carbon Metabolism
+MCITD,Alternate Carbon Metabolism
+MCITL2,Alternate Carbon Metabolism
+MCITS,Alternate Carbon Metabolism
+MICITDr,Alternate Carbon Metabolism
+MLTG1,Alternate Carbon Metabolism
+MLTG2,Alternate Carbon Metabolism
+MLTG3,Alternate Carbon Metabolism
+MLTG4,Alternate Carbon Metabolism
+MLTG5,Alternate Carbon Metabolism
+MLTP1,Alternate Carbon Metabolism
+MLTP2,Alternate Carbon Metabolism
+MLTP3,Alternate Carbon Metabolism
+MMCD,Alternate Carbon Metabolism
+MMM,Alternate Carbon Metabolism
+MN6PP,Alternate Carbon Metabolism
+MNNH,Alternate Carbon Metabolism
+OBTFL,Alternate Carbon Metabolism
+OP4ENH,Alternate Carbon Metabolism
+OXCDC,Alternate Carbon Metabolism
+OXCOAHDH,Alternate Carbon Metabolism
+OXDHCOAT,Alternate Carbon Metabolism
+PACCOAE,Alternate Carbon Metabolism
+PACCOAL,Alternate Carbon Metabolism
+PFK_2,Alternate Carbon Metabolism
+PGLYCP,Alternate Carbon Metabolism
+PGMT,Alternate Carbon Metabolism
+PHYTSpp,Alternate Carbon Metabolism
+PMANM,Alternate Carbon Metabolism
+PPAKr,Alternate Carbon Metabolism
+PPCSCT,Alternate Carbon Metabolism
+PPM,Alternate Carbon Metabolism
+PPM2,Alternate Carbon Metabolism
+PPPNDO,Alternate Carbon Metabolism
+PTA2,Alternate Carbon Metabolism
+R15BPK,Alternate Carbon Metabolism
+R1PK,Alternate Carbon Metabolism
+R5PP,Alternate Carbon Metabolism
+R5PPpp,Alternate Carbon Metabolism
+RBK,Alternate Carbon Metabolism
+RBK_L1,Alternate Carbon Metabolism
+RBP4E,Alternate Carbon Metabolism
+REPHACCOAI,Alternate Carbon Metabolism
+RMI,Alternate Carbon Metabolism
+RMK,Alternate Carbon Metabolism
+RMPA,Alternate Carbon Metabolism
+SBTPD,Alternate Carbon Metabolism
+TAGURr,Alternate Carbon Metabolism
+TARTD,Alternate Carbon Metabolism
+TAUDO,Alternate Carbon Metabolism
+TGBPA,Alternate Carbon Metabolism
+TRE6PH,Alternate Carbon Metabolism
+TRE6PP,Alternate Carbon Metabolism
+TRE6PS,Alternate Carbon Metabolism
+TREH,Alternate Carbon Metabolism
+TREHpp,Alternate Carbon Metabolism
+TRSARr,Alternate Carbon Metabolism
+UACGALPpp,Alternate Carbon Metabolism
+UACGAMPpp,Alternate Carbon Metabolism
+UDPG4E,Alternate Carbon Metabolism
+UDPGALPpp,Alternate Carbon Metabolism
+UDPGPpp,Alternate Carbon Metabolism
+UGLCURPpp,Alternate Carbon Metabolism
+UGLT,Alternate Carbon Metabolism
+URDGLYCD,Alternate Carbon Metabolism
+URIH,Alternate Carbon Metabolism
+X5PL3E,Alternate Carbon Metabolism
+XYLI1,Alternate Carbon Metabolism
+XYLI2,Alternate Carbon Metabolism
+XYLK,Alternate Carbon Metabolism
+XYLK2,Alternate Carbon Metabolism
+ICL,Anaplerotic Reactions
+MALS,Anaplerotic Reactions
+ME1,Anaplerotic Reactions
+ME2,Anaplerotic Reactions
+PPA,Anaplerotic Reactions
+PPA2,Anaplerotic Reactions
+PPC,Anaplerotic Reactions
+PPCK,Anaplerotic Reactions
+ABTA,Arginine and Proline Metabolism
+ABUTD,Arginine and Proline Metabolism
+ACGK,Arginine and Proline Metabolism
+ACGS,Arginine and Proline Metabolism
+ACODA,Arginine and Proline Metabolism
+ACOTA,Arginine and Proline Metabolism
+ADMDC,Arginine and Proline Metabolism
+AGMT,Arginine and Proline Metabolism
+AGPR,Arginine and Proline Metabolism
+AMPTASEPG,Arginine and Proline Metabolism
+APCS,Arginine and Proline Metabolism
+ARGDC,Arginine and Proline Metabolism
+ARGDCpp,Arginine and Proline Metabolism
+ARGSL,Arginine and Proline Metabolism
+ARGSS,Arginine and Proline Metabolism
+AST,Arginine and Proline Metabolism
+CBPS,Arginine and Proline Metabolism
+G5SADs,Arginine and Proline Metabolism
+G5SD,Arginine and Proline Metabolism
+GHBDHx,Arginine and Proline Metabolism
+GLU5K,Arginine and Proline Metabolism
+GSPMDA,Arginine and Proline Metabolism
+GSPMDS,Arginine and Proline Metabolism
+MTAN,Arginine and Proline Metabolism
+NACODA,Arginine and Proline Metabolism
+OCBT,Arginine and Proline Metabolism
+ORNDC,Arginine and Proline Metabolism
+P5CD,Arginine and Proline Metabolism
+P5CR,Arginine and Proline Metabolism
+PROD2,Arginine and Proline Metabolism
+PTRCTA,Arginine and Proline Metabolism
+SADH,Arginine and Proline Metabolism
+SGDS,Arginine and Proline Metabolism
+SGSAD,Arginine and Proline Metabolism
+SOTA,Arginine and Proline Metabolism
+SPMDAT1,Arginine and Proline Metabolism
+SPMDAT2,Arginine and Proline Metabolism
+SPMS,Arginine and Proline Metabolism
+SSALx,Arginine and Proline Metabolism
+SSALy,Arginine and Proline Metabolism
+3HAD100,Cell Envelope Biosynthesis
+3HAD120,Cell Envelope Biosynthesis
+3HAD121,Cell Envelope Biosynthesis
+3HAD140,Cell Envelope Biosynthesis
+3HAD141,Cell Envelope Biosynthesis
+3HAD160,Cell Envelope Biosynthesis
+3HAD161,Cell Envelope Biosynthesis
+3HAD180,Cell Envelope Biosynthesis
+3HAD181,Cell Envelope Biosynthesis
+3HAD40,Cell Envelope Biosynthesis
+3HAD60,Cell Envelope Biosynthesis
+3HAD80,Cell Envelope Biosynthesis
+3OAR100,Cell Envelope Biosynthesis
+3OAR120,Cell Envelope Biosynthesis
+3OAR121,Cell Envelope Biosynthesis
+3OAR140,Cell Envelope Biosynthesis
+3OAR141,Cell Envelope Biosynthesis
+3OAR160,Cell Envelope Biosynthesis
+3OAR161,Cell Envelope Biosynthesis
+3OAR180,Cell Envelope Biosynthesis
+3OAR181,Cell Envelope Biosynthesis
+3OAR40,Cell Envelope Biosynthesis
+3OAR60,Cell Envelope Biosynthesis
+3OAR80,Cell Envelope Biosynthesis
+3OAS100,Cell Envelope Biosynthesis
+3OAS120,Cell Envelope Biosynthesis
+3OAS121,Cell Envelope Biosynthesis
+3OAS140,Cell Envelope Biosynthesis
+3OAS141,Cell Envelope Biosynthesis
+3OAS160,Cell Envelope Biosynthesis
+3OAS161,Cell Envelope Biosynthesis
+3OAS180,Cell Envelope Biosynthesis
+3OAS181,Cell Envelope Biosynthesis
+3OAS60,Cell Envelope Biosynthesis
+3OAS80,Cell Envelope Biosynthesis
+AACPS1,Cell Envelope Biosynthesis
+AACPS2,Cell Envelope Biosynthesis
+AACPS3,Cell Envelope Biosynthesis
+AACPS4,Cell Envelope Biosynthesis
+AACPS5,Cell Envelope Biosynthesis
+AACPS6,Cell Envelope Biosynthesis
+AACPS7,Cell Envelope Biosynthesis
+AACPS8,Cell Envelope Biosynthesis
+AACPS9,Cell Envelope Biosynthesis
+AADDGT,Cell Envelope Biosynthesis
+ACGAMT,Cell Envelope Biosynthesis
+ACMAMUT,Cell Envelope Biosynthesis
+ALAALAr,Cell Envelope Biosynthesis
+EAR100x,Cell Envelope Biosynthesis
+EAR100y,Cell Envelope Biosynthesis
+EAR120x,Cell Envelope Biosynthesis
+EAR120y,Cell Envelope Biosynthesis
+EAR121x,Cell Envelope Biosynthesis
+EAR121y,Cell Envelope Biosynthesis
+EAR140x,Cell Envelope Biosynthesis
+EAR140y,Cell Envelope Biosynthesis
+EAR141x,Cell Envelope Biosynthesis
+EAR141y,Cell Envelope Biosynthesis
+EAR160x,Cell Envelope Biosynthesis
+EAR160y,Cell Envelope Biosynthesis
+EAR161x,Cell Envelope Biosynthesis
+EAR161y,Cell Envelope Biosynthesis
+EAR180x,Cell Envelope Biosynthesis
+EAR180y,Cell Envelope Biosynthesis
+EAR181x,Cell Envelope Biosynthesis
+EAR181y,Cell Envelope Biosynthesis
+EAR40x,Cell Envelope Biosynthesis
+EAR40y,Cell Envelope Biosynthesis
+EAR60x,Cell Envelope Biosynthesis
+EAR60y,Cell Envelope Biosynthesis
+EAR80x,Cell Envelope Biosynthesis
+EAR80y,Cell Envelope Biosynthesis
+ETHAAL,Cell Envelope Biosynthesis
+FA100ACPHi,Cell Envelope Biosynthesis
+FA120ACPHi,Cell Envelope Biosynthesis
+FA140ACPHi,Cell Envelope Biosynthesis
+FA141ACPHi,Cell Envelope Biosynthesis
+FA160ACPHi,Cell Envelope Biosynthesis
+FA161ACPHi,Cell Envelope Biosynthesis
+FA80ACPHi,Cell Envelope Biosynthesis
+FACOAE100,Cell Envelope Biosynthesis
+FACOAE120,Cell Envelope Biosynthesis
+FACOAE140,Cell Envelope Biosynthesis
+FACOAE141,Cell Envelope Biosynthesis
+FACOAE160,Cell Envelope Biosynthesis
+FACOAE161,Cell Envelope Biosynthesis
+FACOAE180,Cell Envelope Biosynthesis
+FACOAE181,Cell Envelope Biosynthesis
+FACOAE60,Cell Envelope Biosynthesis
+FACOAE80,Cell Envelope Biosynthesis
+FACOAL100t2pp,Cell Envelope Biosynthesis
+FACOAL120t2pp,Cell Envelope Biosynthesis
+FACOAL140t2pp,Cell Envelope Biosynthesis
+FACOAL141t2pp,Cell Envelope Biosynthesis
+FACOAL160t2pp,Cell Envelope Biosynthesis
+FACOAL161t2pp,Cell Envelope Biosynthesis
+FACOAL180t2pp,Cell Envelope Biosynthesis
+FACOAL181t2pp,Cell Envelope Biosynthesis
+FACOAL60t2pp,Cell Envelope Biosynthesis
+FACOAL80t2pp,Cell Envelope Biosynthesis
+G1PACT,Cell Envelope Biosynthesis
+G1PTT,Cell Envelope Biosynthesis
+GALUi,Cell Envelope Biosynthesis
+GDMANE,Cell Envelope Biosynthesis
+GDPMNH,Cell Envelope Biosynthesis
+GDPMNP,Cell Envelope Biosynthesis
+GF6PTA,Cell Envelope Biosynthesis
+GLUR,Cell Envelope Biosynthesis
+GMAND,Cell Envelope Biosynthesis
+GOFUCR,Cell Envelope Biosynthesis
+MAN1PT2,Cell Envelope Biosynthesis
+MI1PP,Cell Envelope Biosynthesis
+PAPPT3,Cell Envelope Biosynthesis
+PGAMT,Cell Envelope Biosynthesis
+T2DECAI,Cell Envelope Biosynthesis
+TDPADGAT,Cell Envelope Biosynthesis
+TDPAGTA,Cell Envelope Biosynthesis
+TDPDRE,Cell Envelope Biosynthesis
+TDPDRR,Cell Envelope Biosynthesis
+TDPGDH,Cell Envelope Biosynthesis
+UAAGDS,Cell Envelope Biosynthesis
+UACMAMO,Cell Envelope Biosynthesis
+UAG2E,Cell Envelope Biosynthesis
+UAGCVT,Cell Envelope Biosynthesis
+UAGDP,Cell Envelope Biosynthesis
+UAGPT3,Cell Envelope Biosynthesis
+UAMAGS,Cell Envelope Biosynthesis
+UAMAS,Cell Envelope Biosynthesis
+UAPGR,Cell Envelope Biosynthesis
+UDCPDP,Cell Envelope Biosynthesis
+UDCPDPpp,Cell Envelope Biosynthesis
+UDPGALM,Cell Envelope Biosynthesis
+UDPGD,Cell Envelope Biosynthesis
+UGMDDS,Cell Envelope Biosynthesis
+ACONTa,Citric Acid Cycle
+ACONTb,Citric Acid Cycle
+AKGDH,Citric Acid Cycle
+CITL,Citric Acid Cycle
+CS,Citric Acid Cycle
+FRD2,Citric Acid Cycle
+FRD3,Citric Acid Cycle
+FUM,Citric Acid Cycle
+ICDHyr,Citric Acid Cycle
+MDH,Citric Acid Cycle
+MDH2,Citric Acid Cycle
+MDH3,Citric Acid Cycle
+MOX,Citric Acid Cycle
+SUCOAS,Citric Acid Cycle
+2MAHMP,Cofactor and Prosthetic Group Biosynthesis
+4HTHRS,Cofactor and Prosthetic Group Biosynthesis
+5DOAN,Cofactor and Prosthetic Group Biosynthesis
+ACBIPGT,Cofactor and Prosthetic Group Biosynthesis
+ACPS1,Cofactor and Prosthetic Group Biosynthesis
+ADCL,Cofactor and Prosthetic Group Biosynthesis
+ADCS,Cofactor and Prosthetic Group Biosynthesis
+ADOCBIK,Cofactor and Prosthetic Group Biosynthesis
+ADOCBLS,Cofactor and Prosthetic Group Biosynthesis
+ALATA_D2,Cofactor and Prosthetic Group Biosynthesis
+ALATA_L2,Cofactor and Prosthetic Group Biosynthesis
+AMAOTr,Cofactor and Prosthetic Group Biosynthesis
+AMMQLT8,Cofactor and Prosthetic Group Biosynthesis
+AMPMS2,Cofactor and Prosthetic Group Biosynthesis
+AOXSr2,Cofactor and Prosthetic Group Biosynthesis
+APRAUR,Cofactor and Prosthetic Group Biosynthesis
+ASP1DC,Cofactor and Prosthetic Group Biosynthesis
+ASPO3,Cofactor and Prosthetic Group Biosynthesis
+ASPO4,Cofactor and Prosthetic Group Biosynthesis
+ASPO5,Cofactor and Prosthetic Group Biosynthesis
+ASPO6,Cofactor and Prosthetic Group Biosynthesis
+BMOCOS,Cofactor and Prosthetic Group Biosynthesis
+BMOGDS1,Cofactor and Prosthetic Group Biosynthesis
+BMOGDS2,Cofactor and Prosthetic Group Biosynthesis
+BSORx,Cofactor and Prosthetic Group Biosynthesis
+BSORy,Cofactor and Prosthetic Group Biosynthesis
+BTS5,Cofactor and Prosthetic Group Biosynthesis
+BWCOGDS1,Cofactor and Prosthetic Group Biosynthesis
+BWCOGDS2,Cofactor and Prosthetic Group Biosynthesis
+BWCOS,Cofactor and Prosthetic Group Biosynthesis
+CBIAT,Cofactor and Prosthetic Group Biosynthesis
+CBLAT,Cofactor and Prosthetic Group Biosynthesis
+CCGS,Cofactor and Prosthetic Group Biosynthesis
+CDGR,Cofactor and Prosthetic Group Biosynthesis
+CDGS,Cofactor and Prosthetic Group Biosynthesis
+CDPMEK,Cofactor and Prosthetic Group Biosynthesis
+CHRPL,Cofactor and Prosthetic Group Biosynthesis
+CPH4S,Cofactor and Prosthetic Group Biosynthesis
+CPMPS,Cofactor and Prosthetic Group Biosynthesis
+CPPPGO,Cofactor and Prosthetic Group Biosynthesis
+CPPPGO2,Cofactor and Prosthetic Group Biosynthesis
+DB4PS,Cofactor and Prosthetic Group Biosynthesis
+DBTS,Cofactor and Prosthetic Group Biosynthesis
+DHBD,Cofactor and Prosthetic Group Biosynthesis
+DHBS,Cofactor and Prosthetic Group Biosynthesis
+DHBSH,Cofactor and Prosthetic Group Biosynthesis
+DHFR,Cofactor and Prosthetic Group Biosynthesis
+DHFS,Cofactor and Prosthetic Group Biosynthesis
+DHMPTR,Cofactor and Prosthetic Group Biosynthesis
+DHNAOT4,Cofactor and Prosthetic Group Biosynthesis
+DHNCOAS,Cofactor and Prosthetic Group Biosynthesis
+DHNCOAT,Cofactor and Prosthetic Group Biosynthesis
+DHNPA2r,Cofactor and Prosthetic Group Biosynthesis
+DHNPTE,Cofactor and Prosthetic Group Biosynthesis
+DHPPDA2,Cofactor and Prosthetic Group Biosynthesis
+DHPS2,Cofactor and Prosthetic Group Biosynthesis
+DHPTPE,Cofactor and Prosthetic Group Biosynthesis
+DMATT,Cofactor and Prosthetic Group Biosynthesis
+DMPPS,Cofactor and Prosthetic Group Biosynthesis
+DMQMT,Cofactor and Prosthetic Group Biosynthesis
+DNMPPA,Cofactor and Prosthetic Group Biosynthesis
+DNTPPA,Cofactor and Prosthetic Group Biosynthesis
+DPCOAK,Cofactor and Prosthetic Group Biosynthesis
+DPR,Cofactor and Prosthetic Group Biosynthesis
+DXPRIi,Cofactor and Prosthetic Group Biosynthesis
+DXPS,Cofactor and Prosthetic Group Biosynthesis
+DXYLK,Cofactor and Prosthetic Group Biosynthesis
+E4PD,Cofactor and Prosthetic Group Biosynthesis
+EGMEACPR,Cofactor and Prosthetic Group Biosynthesis
+ENTCS,Cofactor and Prosthetic Group Biosynthesis
+EPMEACPR,Cofactor and Prosthetic Group Biosynthesis
+FADRx,Cofactor and Prosthetic Group Biosynthesis
+FADRx2,Cofactor and Prosthetic Group Biosynthesis
+FALDH2,Cofactor and Prosthetic Group Biosynthesis
+FALGTHLs,Cofactor and Prosthetic Group Biosynthesis
+FCLT,Cofactor and Prosthetic Group Biosynthesis
+FE3Ri,Cofactor and Prosthetic Group Biosynthesis
+FESD1s,Cofactor and Prosthetic Group Biosynthesis
+FESD2s,Cofactor and Prosthetic Group Biosynthesis
+FESR,Cofactor and Prosthetic Group Biosynthesis
+FLVR,Cofactor and Prosthetic Group Biosynthesis
+FLVRx,Cofactor and Prosthetic Group Biosynthesis
+FMNAT,Cofactor and Prosthetic Group Biosynthesis
+FMNRx,Cofactor and Prosthetic Group Biosynthesis
+FMNRx2,Cofactor and Prosthetic Group Biosynthesis
+G1SAT,Cofactor and Prosthetic Group Biosynthesis
+GDPDPK,Cofactor and Prosthetic Group Biosynthesis
+GDPTPDP,Cofactor and Prosthetic Group Biosynthesis
+GLUCYS,Cofactor and Prosthetic Group Biosynthesis
+GLUTRR,Cofactor and Prosthetic Group Biosynthesis
+GLUTRS,Cofactor and Prosthetic Group Biosynthesis
+GRTT,Cofactor and Prosthetic Group Biosynthesis
+GTHOr,Cofactor and Prosthetic Group Biosynthesis
+GTHRDHpp,Cofactor and Prosthetic Group Biosynthesis
+GTHS,Cofactor and Prosthetic Group Biosynthesis
+GTPCI,Cofactor and Prosthetic Group Biosynthesis
+GTPCII2,Cofactor and Prosthetic Group Biosynthesis
+GTPDPDP,Cofactor and Prosthetic Group Biosynthesis
+GTPDPK,Cofactor and Prosthetic Group Biosynthesis
+HBZOPT,Cofactor and Prosthetic Group Biosynthesis
+HEMEOS,Cofactor and Prosthetic Group Biosynthesis
+HETZK,Cofactor and Prosthetic Group Biosynthesis
+HMBS,Cofactor and Prosthetic Group Biosynthesis
+HMPK1,Cofactor and Prosthetic Group Biosynthesis
+HPPK2,Cofactor and Prosthetic Group Biosynthesis
+HYPOE,Cofactor and Prosthetic Group Biosynthesis
+I2FE2SR,Cofactor and Prosthetic Group Biosynthesis
+I2FE2SS,Cofactor and Prosthetic Group Biosynthesis
+I2FE2SS2,Cofactor and Prosthetic Group Biosynthesis
+I2FE2ST,Cofactor and Prosthetic Group Biosynthesis
+I4FE4SR,Cofactor and Prosthetic Group Biosynthesis
+I4FE4ST,Cofactor and Prosthetic Group Biosynthesis
+ICHORS,Cofactor and Prosthetic Group Biosynthesis
+ICHORSi,Cofactor and Prosthetic Group Biosynthesis
+ICHORT,Cofactor and Prosthetic Group Biosynthesis
+ICYSDS,Cofactor and Prosthetic Group Biosynthesis
+IPDDI,Cofactor and Prosthetic Group Biosynthesis
+IPDPS,Cofactor and Prosthetic Group Biosynthesis
+LIPAMPL,Cofactor and Prosthetic Group Biosynthesis
+LIPATPT,Cofactor and Prosthetic Group Biosynthesis
+LIPOCT,Cofactor and Prosthetic Group Biosynthesis
+LIPOS,Cofactor and Prosthetic Group Biosynthesis
+MALCOAMT,Cofactor and Prosthetic Group Biosynthesis
+MECDPDH5,Cofactor and Prosthetic Group Biosynthesis
+MECDPS,Cofactor and Prosthetic Group Biosynthesis
+MEPCT,Cofactor and Prosthetic Group Biosynthesis
+MOADSUx,Cofactor and Prosthetic Group Biosynthesis
+MOCDS,Cofactor and Prosthetic Group Biosynthesis
+MOCOS,Cofactor and Prosthetic Group Biosynthesis
+MOGDS,Cofactor and Prosthetic Group Biosynthesis
+MOHMT,Cofactor and Prosthetic Group Biosynthesis
+MPTAT,Cofactor and Prosthetic Group Biosynthesis
+MPTS,Cofactor and Prosthetic Group Biosynthesis
+MPTSS,Cofactor and Prosthetic Group Biosynthesis
+NADDP,Cofactor and Prosthetic Group Biosynthesis
+NADK,Cofactor and Prosthetic Group Biosynthesis
+NADN,Cofactor and Prosthetic Group Biosynthesis
+NADPPPS,Cofactor and Prosthetic Group Biosynthesis
+NADS1,Cofactor and Prosthetic Group Biosynthesis
+NAMNPP,Cofactor and Prosthetic Group Biosynthesis
+NMNAT,Cofactor and Prosthetic Group Biosynthesis
+NMNDA,Cofactor and Prosthetic Group Biosynthesis
+NMNN,Cofactor and Prosthetic Group Biosynthesis
+NNAM,Cofactor and Prosthetic Group Biosynthesis
+NNDMBRT,Cofactor and Prosthetic Group Biosynthesis
+NNDPR,Cofactor and Prosthetic Group Biosynthesis
+OCTDPS,Cofactor and Prosthetic Group Biosynthesis
+OCTNLL,Cofactor and Prosthetic Group Biosynthesis
+OGMEACPD,Cofactor and Prosthetic Group Biosynthesis
+OGMEACPR,Cofactor and Prosthetic Group Biosynthesis
+OGMEACPS,Cofactor and Prosthetic Group Biosynthesis
+OHPBAT,Cofactor and Prosthetic Group Biosynthesis
+OHPHM,Cofactor and Prosthetic Group Biosynthesis
+OMBZLM,Cofactor and Prosthetic Group Biosynthesis
+OMMBLHX,Cofactor and Prosthetic Group Biosynthesis
+OMMBLHX3,Cofactor and Prosthetic Group Biosynthesis
+OMPHHX,Cofactor and Prosthetic Group Biosynthesis
+OMPHHX3,Cofactor and Prosthetic Group Biosynthesis
+OPHBDC,Cofactor and Prosthetic Group Biosynthesis
+OPHHX,Cofactor and Prosthetic Group Biosynthesis
+OPHHX3,Cofactor and Prosthetic Group Biosynthesis
+OPMEACPD,Cofactor and Prosthetic Group Biosynthesis
+OPMEACPR,Cofactor and Prosthetic Group Biosynthesis
+OPMEACPS,Cofactor and Prosthetic Group Biosynthesis
+PANTS,Cofactor and Prosthetic Group Biosynthesis
+PDX5PO2,Cofactor and Prosthetic Group Biosynthesis
+PDX5POi,Cofactor and Prosthetic Group Biosynthesis
+PDX5PS,Cofactor and Prosthetic Group Biosynthesis
+PDXPP,Cofactor and Prosthetic Group Biosynthesis
+PERD,Cofactor and Prosthetic Group Biosynthesis
+PMDPHT,Cofactor and Prosthetic Group Biosynthesis
+PMEACPE,Cofactor and Prosthetic Group Biosynthesis
+PMPK,Cofactor and Prosthetic Group Biosynthesis
+PNTK,Cofactor and Prosthetic Group Biosynthesis
+PPBNGS,Cofactor and Prosthetic Group Biosynthesis
+PPCDC,Cofactor and Prosthetic Group Biosynthesis
+PPGPPDP,Cofactor and Prosthetic Group Biosynthesis
+PPNCL2,Cofactor and Prosthetic Group Biosynthesis
+PPPGO,Cofactor and Prosthetic Group Biosynthesis
+PPPGO3,Cofactor and Prosthetic Group Biosynthesis
+PTPATi,Cofactor and Prosthetic Group Biosynthesis
+PYAM5PO,Cofactor and Prosthetic Group Biosynthesis
+PYDAMK,Cofactor and Prosthetic Group Biosynthesis
+PYDXK,Cofactor and Prosthetic Group Biosynthesis
+PYDXNK,Cofactor and Prosthetic Group Biosynthesis
+PYDXPP,Cofactor and Prosthetic Group Biosynthesis
+QULNS,Cofactor and Prosthetic Group Biosynthesis
+RBFK,Cofactor and Prosthetic Group Biosynthesis
+RBFSa,Cofactor and Prosthetic Group Biosynthesis
+RBFSb,Cofactor and Prosthetic Group Biosynthesis
+RZ5PP,Cofactor and Prosthetic Group Biosynthesis
+S2FE2SR,Cofactor and Prosthetic Group Biosynthesis
+S2FE2SS,Cofactor and Prosthetic Group Biosynthesis
+S2FE2SS2,Cofactor and Prosthetic Group Biosynthesis
+S2FE2ST,Cofactor and Prosthetic Group Biosynthesis
+S4FE4SR,Cofactor and Prosthetic Group Biosynthesis
+S4FE4ST,Cofactor and Prosthetic Group Biosynthesis
+SCYSDS,Cofactor and Prosthetic Group Biosynthesis
+SEPHCHCS,Cofactor and Prosthetic Group Biosynthesis
+SERASr,Cofactor and Prosthetic Group Biosynthesis
+SFGTHi,Cofactor and Prosthetic Group Biosynthesis
+SHCHCS3,Cofactor and Prosthetic Group Biosynthesis
+SHCHD2,Cofactor and Prosthetic Group Biosynthesis
+SHCHF,Cofactor and Prosthetic Group Biosynthesis
+SUCBZL,Cofactor and Prosthetic Group Biosynthesis
+SUCBZS,Cofactor and Prosthetic Group Biosynthesis
+TDP,Cofactor and Prosthetic Group Biosynthesis
+ThDPAT,Cofactor and Prosthetic Group Biosynthesis
+THZPSN3,Cofactor and Prosthetic Group Biosynthesis
+TMK,Cofactor and Prosthetic Group Biosynthesis
+TMPK,Cofactor and Prosthetic Group Biosynthesis
+TMPPP,Cofactor and Prosthetic Group Biosynthesis
+TPRDCOAS,Cofactor and Prosthetic Group Biosynthesis
+TYRL,Cofactor and Prosthetic Group Biosynthesis
+UDCPDPS,Cofactor and Prosthetic Group Biosynthesis
+UPP3MT,Cofactor and Prosthetic Group Biosynthesis
+UPP3S,Cofactor and Prosthetic Group Biosynthesis
+UPPDC1,Cofactor and Prosthetic Group Biosynthesis
+WCOS,Cofactor and Prosthetic Group Biosynthesis
+ADSK,Cysteine Metabolism
+AMPTASECG,Cysteine Metabolism
+BPNT,Cysteine Metabolism
+CYSDDS,Cysteine Metabolism
+CYSDS,Cysteine Metabolism
+CYSS,Cysteine Metabolism
+CYSSADS,Cysteine Metabolism
+MCPST,Cysteine Metabolism
+PAPSR,Cysteine Metabolism
+PAPSR2,Cysteine Metabolism
+SADT2,Cysteine Metabolism
+SERAT,Cysteine Metabolism
+SULRi,Cysteine Metabolism
+DM_4CRSOL,Exchange
+DM_5DRIB,Exchange
+DM_AACALD,Exchange
+DM_AMOB,Exchange
+DM_MTHTHF,Exchange
+DM_OXAM,Exchange
+Ec_biomass_iJO1366_core_53p95M,Exchange
+Ec_biomass_iJO1366_WT_53p95M,Exchange
+EX_12ppd-R(e),Exchange
+EX_12ppd-S(e),Exchange
+EX_14glucan(e),Exchange
+EX_15dap(e),Exchange
+EX_23camp(e),Exchange
+EX_23ccmp(e),Exchange
+EX_23cgmp(e),Exchange
+EX_23cump(e),Exchange
+EX_23dappa(e),Exchange
+EX_26dap-M(e),Exchange
+EX_2ddglcn(e),Exchange
+EX_34dhpac(e),Exchange
+EX_3amp(e),Exchange
+EX_3cmp(e),Exchange
+EX_3gmp(e),Exchange
+EX_3hcinnm(e),Exchange
+EX_3hpp(e),Exchange
+EX_3hpppn(e),Exchange
+EX_3ump(e),Exchange
+EX_4abut(e),Exchange
+EX_4hoxpacd(e),Exchange
+EX_5dglcn(e),Exchange
+EX_5mtr(e),Exchange
+EX_ac(e),Exchange
+EX_acac(e),Exchange
+EX_acald(e),Exchange
+EX_acgal(e),Exchange
+EX_acgal1p(e),Exchange
+EX_acgam(e),Exchange
+EX_acgam1p(e),Exchange
+EX_acmana(e),Exchange
+EX_acmum(e),Exchange
+EX_acnam(e),Exchange
+EX_acolipa(e),Exchange
+EX_acser(e),Exchange
+EX_ade(e),Exchange
+EX_adn(e),Exchange
+EX_adocbl(e),Exchange
+EX_ag(e),Exchange
+EX_agm(e),Exchange
+EX_akg(e),Exchange
+EX_ala-B(e),Exchange
+EX_ala-D(e),Exchange
+EX_ala-L(e),Exchange
+EX_alaala(e),Exchange
+EX_all-D(e),Exchange
+EX_alltn(e),Exchange
+EX_amp(e),Exchange
+EX_anhgm(e),Exchange
+EX_arab-L(e),Exchange
+EX_arbt(e),Exchange
+EX_arbtn-fe3(e),Exchange
+EX_arbtn(e),Exchange
+EX_arg-L(e),Exchange
+EX_ascb-L(e),Exchange
+EX_asn-L(e),Exchange
+EX_aso3(e),Exchange
+EX_asp-L(e),Exchange
+EX_btn(e),Exchange
+EX_but(e),Exchange
+EX_butso3(e),Exchange
+EX_ca2(e),Exchange
+EX_cbi(e),Exchange
+EX_cbl1(e),Exchange
+EX_cd2(e),Exchange
+EX_cgly(e),Exchange
+EX_chol(e),Exchange
+EX_chtbs(e),Exchange
+EX_cit(e),Exchange
+EX_cl(e),Exchange
+EX_cm(e),Exchange
+EX_cmp(e),Exchange
+EX_co2(e),Exchange
+EX_cobalt2(e),Exchange
+EX_colipa(e),Exchange
+EX_colipap(e),Exchange
+EX_cpgn-un(e),Exchange
+EX_cpgn(e),Exchange
+EX_crn-D(e),Exchange
+EX_crn(e),Exchange
+EX_csn(e),Exchange
+EX_cu(e),Exchange
+EX_cu2(e),Exchange
+EX_cyan(e),Exchange
+EX_cynt(e),Exchange
+EX_cys-D(e),Exchange
+EX_cys-L(e),Exchange
+EX_cytd(e),Exchange
+EX_dad-2(e),Exchange
+EX_damp(e),Exchange
+EX_dca(e),Exchange
+EX_dcmp(e),Exchange
+EX_dcyt(e),Exchange
+EX_ddca(e),Exchange
+EX_dgmp(e),Exchange
+EX_dgsn(e),Exchange
+EX_dha(e),Exchange
+EX_dimp(e),Exchange
+EX_din(e),Exchange
+EX_dms(e),Exchange
+EX_dmso(e),Exchange
+EX_dopa(e),Exchange
+EX_doxrbcn(e),Exchange
+EX_dtmp(e),Exchange
+EX_dump(e),Exchange
+EX_duri(e),Exchange
+EX_eca4colipa(e),Exchange
+EX_enlipa(e),Exchange
+EX_enter(e),Exchange
+EX_etha(e),Exchange
+EX_ethso3(e),Exchange
+EX_etoh(e),Exchange
+EX_f6p(e),Exchange
+EX_fald(e),Exchange
+EX_fe2(e),Exchange
+EX_fe3(e),Exchange
+EX_fe3dcit(e),Exchange
+EX_fe3dhbzs(e),Exchange
+EX_fe3hox-un(e),Exchange
+EX_fe3hox(e),Exchange
+EX_fecrm-un(e),Exchange
+EX_fecrm(e),Exchange
+EX_feenter(e),Exchange
+EX_feoxam-un(e),Exchange
+EX_feoxam(e),Exchange
+EX_for(e),Exchange
+EX_fru(e),Exchange
+EX_frulys(e),Exchange
+EX_fruur(e),Exchange
+EX_fuc-L(e),Exchange
+EX_fum(e),Exchange
+EX_fusa(e),Exchange
+EX_g1p(e),Exchange
+EX_g3pc(e),Exchange
+EX_g3pe(e),Exchange
+EX_g3pg(e),Exchange
+EX_g3pi(e),Exchange
+EX_g3ps(e),Exchange
+EX_g6p(e),Exchange
+EX_gal-bD(e),Exchange
+EX_gal(e),Exchange
+EX_gal1p(e),Exchange
+EX_galct-D(e),Exchange
+EX_galctn-D(e),Exchange
+EX_galctn-L(e),Exchange
+EX_galt(e),Exchange
+EX_galur(e),Exchange
+EX_gam(e),Exchange
+EX_gam6p(e),Exchange
+EX_gbbtn(e),Exchange
+EX_gdp(e),Exchange
+EX_glc(e),Exchange
+EX_glcn(e),Exchange
+EX_glcr(e),Exchange
+EX_glcur(e),Exchange
+EX_glcur1p(e),Exchange
+EX_gln-L(e),Exchange
+EX_glu-L(e),Exchange
+EX_gly(e),Exchange
+EX_glyald(e),Exchange
+EX_glyb(e),Exchange
+EX_glyc-R(e),Exchange
+EX_glyc(e),Exchange
+EX_glyc2p(e),Exchange
+EX_glyc3p(e),Exchange
+EX_glyclt(e),Exchange
+EX_gmp(e),Exchange
+EX_gsn(e),Exchange
+EX_gthox(e),Exchange
+EX_gthrd(e),Exchange
+EX_gtp(e),Exchange
+EX_gua(e),Exchange
+EX_h(e),Exchange
+EX_h2(e),Exchange
+EX_h2o(e),Exchange
+EX_h2o2(e),Exchange
+EX_h2s(e),Exchange
+EX_hacolipa(e),Exchange
+EX_halipa(e),Exchange
+EX_hdca(e),Exchange
+EX_hdcea(e),Exchange
+EX_hg2(e),Exchange
+EX_his-L(e),Exchange
+EX_hom-L(e),Exchange
+EX_hxa(e),Exchange
+EX_hxan(e),Exchange
+EX_idon-L(e),Exchange
+EX_ile-L(e),Exchange
+EX_imp(e),Exchange
+EX_indole(e),Exchange
+EX_inost(e),Exchange
+EX_ins(e),Exchange
+EX_isetac(e),Exchange
+EX_k(e),Exchange
+EX_kdo2lipid4(e),Exchange
+EX_lac-D(e),Exchange
+EX_lac-L(e),Exchange
+EX_LalaDglu(e),Exchange
+EX_LalaDgluMdap(e),Exchange
+EX_LalaDgluMdapDala(e),Exchange
+EX_LalaLglu(e),Exchange
+EX_lcts(e),Exchange
+EX_leu-L(e),Exchange
+EX_lipa_cold(e),Exchange
+EX_lipa(e),Exchange
+EX_lipoate(e),Exchange
+EX_lys-L(e),Exchange
+EX_lyx-L(e),Exchange
+EX_mal-D(e),Exchange
+EX_mal-L(e),Exchange
+EX_malt(e),Exchange
+EX_malthx(e),Exchange
+EX_maltpt(e),Exchange
+EX_malttr(e),Exchange
+EX_maltttr(e),Exchange
+EX_man(e),Exchange
+EX_man6p(e),Exchange
+EX_manglyc(e),Exchange
+EX_melib(e),Exchange
+EX_meoh(e),Exchange
+EX_met-D(e),Exchange
+EX_met-L(e),Exchange
+EX_metsox-R-L(e),Exchange
+EX_metsox-S-L(e),Exchange
+EX_mg2(e),Exchange
+EX_mincyc(e),Exchange
+EX_minohp(e),Exchange
+EX_mmet(e),Exchange
+EX_mn2(e),Exchange
+EX_mnl(e),Exchange
+EX_mobd(e),Exchange
+EX_mso3(e),Exchange
+EX_n2o(e),Exchange
+EX_na1(e),Exchange
+EX_nac(e),Exchange
+EX_nh4(e),Exchange
+EX_ni2(e),Exchange
+EX_nmn(e),Exchange
+EX_no(e),Exchange
+EX_no2(e),Exchange
+EX_no3(e),Exchange
+EX_novbcn(e),Exchange
+EX_o16a4colipa(e),Exchange
+EX_o2(e),Exchange
+EX_o2s(e),Exchange
+EX_ocdca(e),Exchange
+EX_ocdcea(e),Exchange
+EX_octa(e),Exchange
+EX_orn(e),Exchange
+EX_orot(e),Exchange
+EX_pacald(e),Exchange
+EX_peamn(e),Exchange
+EX_phe-L(e),Exchange
+EX_pheme(e),Exchange
+EX_pi(e),Exchange
+EX_pnto-R(e),Exchange
+EX_ppa(e),Exchange
+EX_ppal(e),Exchange
+EX_pppn(e),Exchange
+EX_ppt(e),Exchange
+EX_pro-L(e),Exchange
+EX_progly(e),Exchange
+EX_psclys(e),Exchange
+EX_pser-L(e),Exchange
+EX_ptrc(e),Exchange
+EX_pydam(e),Exchange
+EX_pydx(e),Exchange
+EX_pydxn(e),Exchange
+EX_pyr(e),Exchange
+EX_quin(e),Exchange
+EX_r5p(e),Exchange
+EX_rfamp(e),Exchange
+EX_rib-D(e),Exchange
+EX_rmn(e),Exchange
+EX_sbt-D(e),Exchange
+EX_sel(e),Exchange
+EX_ser-D(e),Exchange
+EX_ser-L(e),Exchange
+EX_skm(e),Exchange
+EX_slnt(e),Exchange
+EX_so2(e),Exchange
+EX_so3(e),Exchange
+EX_so4(e),Exchange
+EX_spmd(e),Exchange
+EX_succ(e),Exchange
+EX_sucr(e),Exchange
+EX_sulfac(e),Exchange
+EX_tartr-D(e),Exchange
+EX_tartr-L(e),Exchange
+EX_taur(e),Exchange
+EX_tcynt(e),Exchange
+EX_thm(e),Exchange
+EX_thr-L(e),Exchange
+EX_thrp(e),Exchange
+EX_thym(e),Exchange
+EX_thymd(e),Exchange
+EX_tma(e),Exchange
+EX_tmao(e),Exchange
+EX_tre(e),Exchange
+EX_trp-L(e),Exchange
+EX_tsul(e),Exchange
+EX_ttdca(e),Exchange
+EX_ttdcea(e),Exchange
+EX_ttrcyc(e),Exchange
+EX_tungs(e),Exchange
+EX_tym(e),Exchange
+EX_tyr-L(e),Exchange
+EX_tyrp(e),Exchange
+EX_uacgam(e),Exchange
+EX_udpacgal(e),Exchange
+EX_udpg(e),Exchange
+EX_udpgal(e),Exchange
+EX_udpglcur(e),Exchange
+EX_ump(e),Exchange
+EX_ura(e),Exchange
+EX_urea(e),Exchange
+EX_uri(e),Exchange
+EX_val-L(e),Exchange
+EX_xan(e),Exchange
+EX_xmp(e),Exchange
+EX_xtsn(e),Exchange
+EX_xyl-D(e),Exchange
+EX_xylu-L(e),Exchange
+EX_zn2(e),Exchange
+FOMETRi,Folate Metabolism
+FTHFD,Folate Metabolism
+FTHFLi,Folate Metabolism
+GCALDD,Folate Metabolism
+GLYCL,Folate Metabolism
+MTHFC,Folate Metabolism
+MTHFD,Folate Metabolism
+MTHFR2,Folate Metabolism
+THFAT,Folate Metabolism
+GLUDC,Glutamate Metabolism
+GLUDy,Glutamate Metabolism
+GLUN,Glutamate Metabolism
+GLUNpp,Glutamate Metabolism
+GLNS,Glutamate Metabolism
+GLUSy,Glutamate Metabolism
+2AGPEAT120,Glycerophospholipid Metabolism
+2AGPEAT140,Glycerophospholipid Metabolism
+2AGPEAT141,Glycerophospholipid Metabolism
+2AGPEAT160,Glycerophospholipid Metabolism
+2AGPEAT161,Glycerophospholipid Metabolism
+2AGPEAT180,Glycerophospholipid Metabolism
+2AGPEAT181,Glycerophospholipid Metabolism
+2AGPGAT120,Glycerophospholipid Metabolism
+2AGPGAT140,Glycerophospholipid Metabolism
+2AGPGAT141,Glycerophospholipid Metabolism
+2AGPGAT160,Glycerophospholipid Metabolism
+2AGPGAT161,Glycerophospholipid Metabolism
+2AGPGAT180,Glycerophospholipid Metabolism
+2AGPGAT181,Glycerophospholipid Metabolism
+ACPPAT120,Glycerophospholipid Metabolism
+ACPPAT140,Glycerophospholipid Metabolism
+ACPPAT141,Glycerophospholipid Metabolism
+ACPPAT160,Glycerophospholipid Metabolism
+ACPPAT161,Glycerophospholipid Metabolism
+ACPPAT180,Glycerophospholipid Metabolism
+ACPPAT181,Glycerophospholipid Metabolism
+AGPAT120,Glycerophospholipid Metabolism
+AGPAT140,Glycerophospholipid Metabolism
+AGPAT141,Glycerophospholipid Metabolism
+AGPAT160,Glycerophospholipid Metabolism
+AGPAT161,Glycerophospholipid Metabolism
+AGPAT180,Glycerophospholipid Metabolism
+AGPAT181,Glycerophospholipid Metabolism
+ALR4x,Glycerophospholipid Metabolism
+APG3PAT120,Glycerophospholipid Metabolism
+APG3PAT140,Glycerophospholipid Metabolism
+APG3PAT141,Glycerophospholipid Metabolism
+APG3PAT160,Glycerophospholipid Metabolism
+APG3PAT161,Glycerophospholipid Metabolism
+APG3PAT180,Glycerophospholipid Metabolism
+APG3PAT181,Glycerophospholipid Metabolism
+APH120,Glycerophospholipid Metabolism
+APH140,Glycerophospholipid Metabolism
+APH141,Glycerophospholipid Metabolism
+APH160,Glycerophospholipid Metabolism
+APH161,Glycerophospholipid Metabolism
+APH180,Glycerophospholipid Metabolism
+APH181,Glycerophospholipid Metabolism
+CDAPPA120,Glycerophospholipid Metabolism
+CDAPPA140,Glycerophospholipid Metabolism
+CDAPPA141,Glycerophospholipid Metabolism
+CDAPPA160,Glycerophospholipid Metabolism
+CDAPPA161,Glycerophospholipid Metabolism
+CDAPPA180,Glycerophospholipid Metabolism
+CDAPPA181,Glycerophospholipid Metabolism
+CFAS160E,Glycerophospholipid Metabolism
+CFAS160G,Glycerophospholipid Metabolism
+CFAS180E,Glycerophospholipid Metabolism
+CFAS180G,Glycerophospholipid Metabolism
+CLPNH120pp,Glycerophospholipid Metabolism
+CLPNH140pp,Glycerophospholipid Metabolism
+CLPNH141pp,Glycerophospholipid Metabolism
+CLPNH160pp,Glycerophospholipid Metabolism
+CLPNH161pp,Glycerophospholipid Metabolism
+CLPNH180pp,Glycerophospholipid Metabolism
+CLPNH181pp,Glycerophospholipid Metabolism
+CLPNS120pp,Glycerophospholipid Metabolism
+CLPNS140pp,Glycerophospholipid Metabolism
+CLPNS141pp,Glycerophospholipid Metabolism
+CLPNS160pp,Glycerophospholipid Metabolism
+CLPNS161pp,Glycerophospholipid Metabolism
+CLPNS180pp,Glycerophospholipid Metabolism
+CLPNS181pp,Glycerophospholipid Metabolism
+DAGK120,Glycerophospholipid Metabolism
+DAGK140,Glycerophospholipid Metabolism
+DAGK141,Glycerophospholipid Metabolism
+DAGK160,Glycerophospholipid Metabolism
+DAGK161,Glycerophospholipid Metabolism
+DAGK180,Glycerophospholipid Metabolism
+DAGK181,Glycerophospholipid Metabolism
+DASYN120,Glycerophospholipid Metabolism
+DASYN140,Glycerophospholipid Metabolism
+DASYN141,Glycerophospholipid Metabolism
+DASYN160,Glycerophospholipid Metabolism
+DASYN161,Glycerophospholipid Metabolism
+DASYN180,Glycerophospholipid Metabolism
+DASYN181,Glycerophospholipid Metabolism
+G3PAT120,Glycerophospholipid Metabolism
+G3PAT140,Glycerophospholipid Metabolism
+G3PAT141,Glycerophospholipid Metabolism
+G3PAT160,Glycerophospholipid Metabolism
+G3PAT161,Glycerophospholipid Metabolism
+G3PAT180,Glycerophospholipid Metabolism
+G3PAT181,Glycerophospholipid Metabolism
+GPDDA1,Glycerophospholipid Metabolism
+GPDDA1pp,Glycerophospholipid Metabolism
+GPDDA2,Glycerophospholipid Metabolism
+GPDDA2pp,Glycerophospholipid Metabolism
+GPDDA3,Glycerophospholipid Metabolism
+GPDDA3pp,Glycerophospholipid Metabolism
+GPDDA4,Glycerophospholipid Metabolism
+GPDDA4pp,Glycerophospholipid Metabolism
+GPDDA5,Glycerophospholipid Metabolism
+GPDDA5pp,Glycerophospholipid Metabolism
+LPLIPAL1A120pp,Glycerophospholipid Metabolism
+LPLIPAL1A140pp,Glycerophospholipid Metabolism
+LPLIPAL1A141pp,Glycerophospholipid Metabolism
+LPLIPAL1A160pp,Glycerophospholipid Metabolism
+LPLIPAL1A161pp,Glycerophospholipid Metabolism
+LPLIPAL1A180pp,Glycerophospholipid Metabolism
+LPLIPAL1A181pp,Glycerophospholipid Metabolism
+LPLIPAL1E120pp,Glycerophospholipid Metabolism
+LPLIPAL1E140pp,Glycerophospholipid Metabolism
+LPLIPAL1E141pp,Glycerophospholipid Metabolism
+LPLIPAL1E160pp,Glycerophospholipid Metabolism
+LPLIPAL1E161pp,Glycerophospholipid Metabolism
+LPLIPAL1E180pp,Glycerophospholipid Metabolism
+LPLIPAL1E181pp,Glycerophospholipid Metabolism
+LPLIPAL1G120pp,Glycerophospholipid Metabolism
+LPLIPAL1G140pp,Glycerophospholipid Metabolism
+LPLIPAL1G141pp,Glycerophospholipid Metabolism
+LPLIPAL1G160pp,Glycerophospholipid Metabolism
+LPLIPAL1G161pp,Glycerophospholipid Metabolism
+LPLIPAL1G180pp,Glycerophospholipid Metabolism
+LPLIPAL1G181pp,Glycerophospholipid Metabolism
+LPLIPAL2A120,Glycerophospholipid Metabolism
+LPLIPAL2A140,Glycerophospholipid Metabolism
+LPLIPAL2A141,Glycerophospholipid Metabolism
+LPLIPAL2A160,Glycerophospholipid Metabolism
+LPLIPAL2A161,Glycerophospholipid Metabolism
+LPLIPAL2A180,Glycerophospholipid Metabolism
+LPLIPAL2A181,Glycerophospholipid Metabolism
+LPLIPAL2ATE120,Glycerophospholipid Metabolism
+LPLIPAL2ATE140,Glycerophospholipid Metabolism
+LPLIPAL2ATE141,Glycerophospholipid Metabolism
+LPLIPAL2ATE160,Glycerophospholipid Metabolism
+LPLIPAL2ATE161,Glycerophospholipid Metabolism
+LPLIPAL2ATE180,Glycerophospholipid Metabolism
+LPLIPAL2ATE181,Glycerophospholipid Metabolism
+LPLIPAL2ATG120,Glycerophospholipid Metabolism
+LPLIPAL2ATG140,Glycerophospholipid Metabolism
+LPLIPAL2ATG141,Glycerophospholipid Metabolism
+LPLIPAL2ATG160,Glycerophospholipid Metabolism
+LPLIPAL2ATG161,Glycerophospholipid Metabolism
+LPLIPAL2ATG180,Glycerophospholipid Metabolism
+LPLIPAL2ATG181,Glycerophospholipid Metabolism
+LPLIPAL2E120,Glycerophospholipid Metabolism
+LPLIPAL2E140,Glycerophospholipid Metabolism
+LPLIPAL2E141,Glycerophospholipid Metabolism
+LPLIPAL2E160,Glycerophospholipid Metabolism
+LPLIPAL2E161,Glycerophospholipid Metabolism
+LPLIPAL2E180,Glycerophospholipid Metabolism
+LPLIPAL2E181,Glycerophospholipid Metabolism
+LPLIPAL2G120,Glycerophospholipid Metabolism
+LPLIPAL2G140,Glycerophospholipid Metabolism
+LPLIPAL2G141,Glycerophospholipid Metabolism
+LPLIPAL2G160,Glycerophospholipid Metabolism
+LPLIPAL2G161,Glycerophospholipid Metabolism
+LPLIPAL2G180,Glycerophospholipid Metabolism
+LPLIPAL2G181,Glycerophospholipid Metabolism
+PAPA120,Glycerophospholipid Metabolism
+PAPA120pp,Glycerophospholipid Metabolism
+PAPA140,Glycerophospholipid Metabolism
+PAPA140pp,Glycerophospholipid Metabolism
+PAPA141,Glycerophospholipid Metabolism
+PAPA141pp,Glycerophospholipid Metabolism
+PAPA160,Glycerophospholipid Metabolism
+PAPA160pp,Glycerophospholipid Metabolism
+PAPA161,Glycerophospholipid Metabolism
+PAPA161pp,Glycerophospholipid Metabolism
+PAPA180,Glycerophospholipid Metabolism
+PAPA180pp,Glycerophospholipid Metabolism
+PAPA181,Glycerophospholipid Metabolism
+PAPA181pp,Glycerophospholipid Metabolism
+PGPP120,Glycerophospholipid Metabolism
+PGPP120pp,Glycerophospholipid Metabolism
+PGPP140,Glycerophospholipid Metabolism
+PGPP140pp,Glycerophospholipid Metabolism
+PGPP141,Glycerophospholipid Metabolism
+PGPP141pp,Glycerophospholipid Metabolism
+PGPP160,Glycerophospholipid Metabolism
+PGPP160pp,Glycerophospholipid Metabolism
+PGPP161,Glycerophospholipid Metabolism
+PGPP161pp,Glycerophospholipid Metabolism
+PGPP180,Glycerophospholipid Metabolism
+PGPP180pp,Glycerophospholipid Metabolism
+PGPP181,Glycerophospholipid Metabolism
+PGPP181pp,Glycerophospholipid Metabolism
+PGSA120,Glycerophospholipid Metabolism
+PGSA140,Glycerophospholipid Metabolism
+PGSA141,Glycerophospholipid Metabolism
+PGSA160,Glycerophospholipid Metabolism
+PGSA161,Glycerophospholipid Metabolism
+PGSA180,Glycerophospholipid Metabolism
+PGSA181,Glycerophospholipid Metabolism
+PLIPA1A120pp,Glycerophospholipid Metabolism
+PLIPA1A140pp,Glycerophospholipid Metabolism
+PLIPA1A141pp,Glycerophospholipid Metabolism
+PLIPA1A160pp,Glycerophospholipid Metabolism
+PLIPA1A161pp,Glycerophospholipid Metabolism
+PLIPA1A180pp,Glycerophospholipid Metabolism
+PLIPA1A181pp,Glycerophospholipid Metabolism
+PLIPA1E120pp,Glycerophospholipid Metabolism
+PLIPA1E140pp,Glycerophospholipid Metabolism
+PLIPA1E141pp,Glycerophospholipid Metabolism
+PLIPA1E160pp,Glycerophospholipid Metabolism
+PLIPA1E161pp,Glycerophospholipid Metabolism
+PLIPA1E180pp,Glycerophospholipid Metabolism
+PLIPA1E181pp,Glycerophospholipid Metabolism
+PLIPA1G120pp,Glycerophospholipid Metabolism
+PLIPA1G140pp,Glycerophospholipid Metabolism
+PLIPA1G141pp,Glycerophospholipid Metabolism
+PLIPA1G160pp,Glycerophospholipid Metabolism
+PLIPA1G161pp,Glycerophospholipid Metabolism
+PLIPA1G180pp,Glycerophospholipid Metabolism
+PLIPA1G181pp,Glycerophospholipid Metabolism
+PLIPA2A120pp,Glycerophospholipid Metabolism
+PLIPA2A140pp,Glycerophospholipid Metabolism
+PLIPA2A141pp,Glycerophospholipid Metabolism
+PLIPA2A160pp,Glycerophospholipid Metabolism
+PLIPA2A161pp,Glycerophospholipid Metabolism
+PLIPA2A180pp,Glycerophospholipid Metabolism
+PLIPA2A181pp,Glycerophospholipid Metabolism
+PLIPA2E120pp,Glycerophospholipid Metabolism
+PLIPA2E140pp,Glycerophospholipid Metabolism
+PLIPA2E141pp,Glycerophospholipid Metabolism
+PLIPA2E160pp,Glycerophospholipid Metabolism
+PLIPA2E161pp,Glycerophospholipid Metabolism
+PLIPA2E180pp,Glycerophospholipid Metabolism
+PLIPA2E181pp,Glycerophospholipid Metabolism
+PLIPA2G120pp,Glycerophospholipid Metabolism
+PLIPA2G140pp,Glycerophospholipid Metabolism
+PLIPA2G141pp,Glycerophospholipid Metabolism
+PLIPA2G160pp,Glycerophospholipid Metabolism
+PLIPA2G161pp,Glycerophospholipid Metabolism
+PLIPA2G180pp,Glycerophospholipid Metabolism
+PLIPA2G181pp,Glycerophospholipid Metabolism
+PSD120,Glycerophospholipid Metabolism
+PSD140,Glycerophospholipid Metabolism
+PSD141,Glycerophospholipid Metabolism
+PSD160,Glycerophospholipid Metabolism
+PSD161,Glycerophospholipid Metabolism
+PSD180,Glycerophospholipid Metabolism
+PSD181,Glycerophospholipid Metabolism
+PSSA120,Glycerophospholipid Metabolism
+PSSA140,Glycerophospholipid Metabolism
+PSSA141,Glycerophospholipid Metabolism
+PSSA160,Glycerophospholipid Metabolism
+PSSA161,Glycerophospholipid Metabolism
+PSSA180,Glycerophospholipid Metabolism
+PSSA181,Glycerophospholipid Metabolism
+DSERDHr,Glycine and Serine Metabolism
+GHMT2r,Glycine and Serine Metabolism
+GLYAT,Glycine and Serine Metabolism
+GLYCK2,Glycine and Serine Metabolism
+LSERDHr,Glycine and Serine Metabolism
+MTRPOX,Glycine and Serine Metabolism
+PGCD,Glycine and Serine Metabolism
+PSERT,Glycine and Serine Metabolism
+PSP_L,Glycine and Serine Metabolism
+PSP_Lpp,Glycine and Serine Metabolism
+SARCOX,Glycine and Serine Metabolism
+SERD_D,Glycine and Serine Metabolism
+SERD_L,Glycine and Serine Metabolism
+THRD,Glycine and Serine Metabolism
+ENO,Glycolysis and Gluconeogenesis
+F6PA,Glycolysis and Gluconeogenesis
+FBA,Glycolysis and Gluconeogenesis
+FBP,Glycolysis and Gluconeogenesis
+G1PPpp,Glycolysis and Gluconeogenesis
+G6PP,Glycolysis and Gluconeogenesis
+GAPD,Glycolysis and Gluconeogenesis
+GLBRAN2,Glycolysis and Gluconeogenesis
+GLCP,Glycolysis and Gluconeogenesis
+GLCP2,Glycolysis and Gluconeogenesis
+GLCS1,Glycolysis and Gluconeogenesis
+GLDBRAN2,Glycolysis and Gluconeogenesis
+GLGC,Glycolysis and Gluconeogenesis
+HEX1,Glycolysis and Gluconeogenesis
+PDH,Glycolysis and Gluconeogenesis
+PFK,Glycolysis and Gluconeogenesis
+PGI,Glycolysis and Gluconeogenesis
+PGK,Glycolysis and Gluconeogenesis
+PGM,Glycolysis and Gluconeogenesis
+PPS,Glycolysis and Gluconeogenesis
+PYK,Glycolysis and Gluconeogenesis
+TPI,Glycolysis and Gluconeogenesis
+GLXCL,Glyoxylate Metabolism
+GLYCK,Glyoxylate Metabolism
+GLYCLTDx,Glyoxylate Metabolism
+GLYCLTDy,Glyoxylate Metabolism
+ATPPRT,Histidine Metabolism
+HISTD,Histidine Metabolism
+HISTP,Histidine Metabolism
+HSTPT,Histidine Metabolism
+IG3PS,Histidine Metabolism
+IGPDH,Histidine Metabolism
+PRAMPC,Histidine Metabolism
+PRATPP,Histidine Metabolism
+PRMICI,Histidine Metabolism
+PRPPS,Histidine Metabolism
+AGt3,Inorganic Ion Transport and Metabolism
+ARBTNexs,Inorganic Ion Transport and Metabolism
+ARBTNR1,Inorganic Ion Transport and Metabolism
+ARBTNR2,Inorganic Ion Transport and Metabolism
+ARBTNR3,Inorganic Ion Transport and Metabolism
+ARBTNtpp,Inorganic Ion Transport and Metabolism
+ASR,Inorganic Ion Transport and Metabolism
+CA2t3pp,Inorganic Ion Transport and Metabolism
+CAt6pp,Inorganic Ion Transport and Metabolism
+CD2abcpp,Inorganic Ion Transport and Metabolism
+CD2t3pp,Inorganic Ion Transport and Metabolism
+CD2tpp,Inorganic Ion Transport and Metabolism
+CLt3_2pp,Inorganic Ion Transport and Metabolism
+COBALT2abcpp,Inorganic Ion Transport and Metabolism
+COBALT2t3pp,Inorganic Ion Transport and Metabolism
+COBALT2tpp,Inorganic Ion Transport and Metabolism
+CPGNexs,Inorganic Ion Transport and Metabolism
+CPGNR1,Inorganic Ion Transport and Metabolism
+CPGNR2,Inorganic Ion Transport and Metabolism
+CPGNR3,Inorganic Ion Transport and Metabolism
+CPGNUtex,Inorganic Ion Transport and Metabolism
+CPGNUtpp,Inorganic Ion Transport and Metabolism
+CU1abcpp,Inorganic Ion Transport and Metabolism
+CU1Opp,Inorganic Ion Transport and Metabolism
+CU2abcpp,Inorganic Ion Transport and Metabolism
+CU2tpp,Inorganic Ion Transport and Metabolism
+CYANSTpp,Inorganic Ion Transport and Metabolism
+ENTERES,Inorganic Ion Transport and Metabolism
+ENTERES2,Inorganic Ion Transport and Metabolism
+FDMO,Inorganic Ion Transport and Metabolism
+FDMO2,Inorganic Ion Transport and Metabolism
+FDMO3,Inorganic Ion Transport and Metabolism
+FDMO4,Inorganic Ion Transport and Metabolism
+FDMO6,Inorganic Ion Transport and Metabolism
+FE2abcpp,Inorganic Ion Transport and Metabolism
+FE2t2pp,Inorganic Ion Transport and Metabolism
+FE2t3pp,Inorganic Ion Transport and Metabolism
+FE2tpp,Inorganic Ion Transport and Metabolism
+FE3abcpp,Inorganic Ion Transport and Metabolism
+FE3DCITabcpp,Inorganic Ion Transport and Metabolism
+FE3DHBZR,Inorganic Ion Transport and Metabolism
+FE3DHBZSabcpp,Inorganic Ion Transport and Metabolism
+FE3HOXabcpp,Inorganic Ion Transport and Metabolism
+FE3HOXexs,Inorganic Ion Transport and Metabolism
+FE3HOXR1,Inorganic Ion Transport and Metabolism
+FE3HOXR2,Inorganic Ion Transport and Metabolism
+FE3HOXR3,Inorganic Ion Transport and Metabolism
+FE3HOXUtex,Inorganic Ion Transport and Metabolism
+FE3HOXUtpp,Inorganic Ion Transport and Metabolism
+FECRMabcpp,Inorganic Ion Transport and Metabolism
+FECRMexs,Inorganic Ion Transport and Metabolism
+FECRMR1,Inorganic Ion Transport and Metabolism
+FECRMR2,Inorganic Ion Transport and Metabolism
+FECRMR3,Inorganic Ion Transport and Metabolism
+FECRMUtex,Inorganic Ion Transport and Metabolism
+FECRMUtpp,Inorganic Ion Transport and Metabolism
+FEENTERabcpp,Inorganic Ion Transport and Metabolism
+FEENTERexs,Inorganic Ion Transport and Metabolism
+FEENTERR1,Inorganic Ion Transport and Metabolism
+FEENTERR2,Inorganic Ion Transport and Metabolism
+FEENTERR3,Inorganic Ion Transport and Metabolism
+FEENTERtex,Inorganic Ion Transport and Metabolism
+FEOXAMabcpp,Inorganic Ion Transport and Metabolism
+FEOXAMexs,Inorganic Ion Transport and Metabolism
+FEOXAMR1,Inorganic Ion Transport and Metabolism
+FEOXAMR2,Inorganic Ion Transport and Metabolism
+FEOXAMR3,Inorganic Ion Transport and Metabolism
+FEOXAMUtex,Inorganic Ion Transport and Metabolism
+FEOXAMUtpp,Inorganic Ion Transport and Metabolism
+FEROpp,Inorganic Ion Transport and Metabolism
+H2SO,Inorganic Ion Transport and Metabolism
+HG2abcpp,Inorganic Ion Transport and Metabolism
+HG2t3pp,Inorganic Ion Transport and Metabolism
+Kabcpp,Inorganic Ion Transport and Metabolism
+Kt2pp,Inorganic Ion Transport and Metabolism
+Kt3pp,Inorganic Ion Transport and Metabolism
+MG2t3_2pp,Inorganic Ion Transport and Metabolism
+MG2tpp,Inorganic Ion Transport and Metabolism
+MG2uabcpp,Inorganic Ion Transport and Metabolism
+MN2t3pp,Inorganic Ion Transport and Metabolism
+MN2tpp,Inorganic Ion Transport and Metabolism
+MOBDabcpp,Inorganic Ion Transport and Metabolism
+N2Otpp,Inorganic Ion Transport and Metabolism
+NAt3_1p5pp,Inorganic Ion Transport and Metabolism
+NAt3_2pp,Inorganic Ion Transport and Metabolism
+NAt3pp,Inorganic Ion Transport and Metabolism
+NH4tpp,Inorganic Ion Transport and Metabolism
+NI2abcpp,Inorganic Ion Transport and Metabolism
+NI2t3pp,Inorganic Ion Transport and Metabolism
+NI2tpp,Inorganic Ion Transport and Metabolism
+NI2uabcpp,Inorganic Ion Transport and Metabolism
+NO2t2rpp,Inorganic Ion Transport and Metabolism
+NO3t7pp,Inorganic Ion Transport and Metabolism
+NOtpp,Inorganic Ion Transport and Metabolism
+O2tpp,Inorganic Ion Transport and Metabolism
+PIt2rpp,Inorganic Ion Transport and Metabolism
+PIuabcpp,Inorganic Ion Transport and Metabolism
+SELGTHR,Inorganic Ion Transport and Metabolism
+SELGTHR2,Inorganic Ion Transport and Metabolism
+SELGTHR3,Inorganic Ion Transport and Metabolism
+SELR,Inorganic Ion Transport and Metabolism
+SELtpp,Inorganic Ion Transport and Metabolism
+SLNTtpp,Inorganic Ion Transport and Metabolism
+SO2tpp,Inorganic Ion Transport and Metabolism
+SO4t2pp,Inorganic Ion Transport and Metabolism
+SULabcpp,Inorganic Ion Transport and Metabolism
+TSULabcpp,Inorganic Ion Transport and Metabolism
+TUNGSabcpp,Inorganic Ion Transport and Metabolism
+ZN2abcpp,Inorganic Ion Transport and Metabolism
+ZN2t3pp,Inorganic Ion Transport and Metabolism
+ZN2tpp,Inorganic Ion Transport and Metabolism
+ZNabcpp,Inorganic Ion Transport and Metabolism
+ACOLIPAabctex,Lipopolysaccharide Biosynthesis and Recycling
+AGMHE,Lipopolysaccharide Biosynthesis and Recycling
+CLIPAabctex,Lipopolysaccharide Biosynthesis and Recycling
+COLIPAabcpp,Lipopolysaccharide Biosynthesis and Recycling
+COLIPAabctex,Lipopolysaccharide Biosynthesis and Recycling
+COLIPAKpp,Lipopolysaccharide Biosynthesis and Recycling
+COLIPAPabctex,Lipopolysaccharide Biosynthesis and Recycling
+ECA4COLIPAabctex,Lipopolysaccharide Biosynthesis and Recycling
+ECA4OALpp,Lipopolysaccharide Biosynthesis and Recycling
+ECAP1pp,Lipopolysaccharide Biosynthesis and Recycling
+ECAP2pp,Lipopolysaccharide Biosynthesis and Recycling
+ECAP3pp,Lipopolysaccharide Biosynthesis and Recycling
+ECAtpp,Lipopolysaccharide Biosynthesis and Recycling
+EDTXS1,Lipopolysaccharide Biosynthesis and Recycling
+EDTXS2,Lipopolysaccharide Biosynthesis and Recycling
+EDTXS3,Lipopolysaccharide Biosynthesis and Recycling
+EDTXS4,Lipopolysaccharide Biosynthesis and Recycling
+ENLIPAabctex,Lipopolysaccharide Biosynthesis and Recycling
+GALT1,Lipopolysaccharide Biosynthesis and Recycling
+GLCTR1,Lipopolysaccharide Biosynthesis and Recycling
+GLCTR2,Lipopolysaccharide Biosynthesis and Recycling
+GLCTR3,Lipopolysaccharide Biosynthesis and Recycling
+GMHEPAT,Lipopolysaccharide Biosynthesis and Recycling
+GMHEPK,Lipopolysaccharide Biosynthesis and Recycling
+GMHEPPA,Lipopolysaccharide Biosynthesis and Recycling
+HEPK1,Lipopolysaccharide Biosynthesis and Recycling
+HEPK2,Lipopolysaccharide Biosynthesis and Recycling
+HEPT1,Lipopolysaccharide Biosynthesis and Recycling
+HEPT2,Lipopolysaccharide Biosynthesis and Recycling
+HEPT3,Lipopolysaccharide Biosynthesis and Recycling
+HEPT4,Lipopolysaccharide Biosynthesis and Recycling
+K2L4Aabctex,Lipopolysaccharide Biosynthesis and Recycling
+KDOCT2,Lipopolysaccharide Biosynthesis and Recycling
+KDOPP,Lipopolysaccharide Biosynthesis and Recycling
+KDOPS,Lipopolysaccharide Biosynthesis and Recycling
+LA4NTpp,Lipopolysaccharide Biosynthesis and Recycling
+LIPAabcpp,Lipopolysaccharide Biosynthesis and Recycling
+LIPAabctex,Lipopolysaccharide Biosynthesis and Recycling
+LIPACabcpp,Lipopolysaccharide Biosynthesis and Recycling
+LIPAHT2ex,Lipopolysaccharide Biosynthesis and Recycling
+LIPAHTex,Lipopolysaccharide Biosynthesis and Recycling
+LPADSS,Lipopolysaccharide Biosynthesis and Recycling
+MOAT,Lipopolysaccharide Biosynthesis and Recycling
+MOAT2,Lipopolysaccharide Biosynthesis and Recycling
+MOAT3C,Lipopolysaccharide Biosynthesis and Recycling
+O16A4COLIPAabctex,Lipopolysaccharide Biosynthesis and Recycling
+O16A4Lpp,Lipopolysaccharide Biosynthesis and Recycling
+O16AP1pp,Lipopolysaccharide Biosynthesis and Recycling
+O16AP2pp,Lipopolysaccharide Biosynthesis and Recycling
+O16AP3pp,Lipopolysaccharide Biosynthesis and Recycling
+O16AT,Lipopolysaccharide Biosynthesis and Recycling
+O16AUNDtpp,Lipopolysaccharide Biosynthesis and Recycling
+O16GALFT,Lipopolysaccharide Biosynthesis and Recycling
+O16GLCT1,Lipopolysaccharide Biosynthesis and Recycling
+O16GLCT2,Lipopolysaccharide Biosynthesis and Recycling
+PETNT161pp,Lipopolysaccharide Biosynthesis and Recycling
+PETNT181pp,Lipopolysaccharide Biosynthesis and Recycling
+RHAT1,Lipopolysaccharide Biosynthesis and Recycling
+S7PI,Lipopolysaccharide Biosynthesis and Recycling
+TDSK,Lipopolysaccharide Biosynthesis and Recycling
+U23GAAT,Lipopolysaccharide Biosynthesis and Recycling
+UAGAAT,Lipopolysaccharide Biosynthesis and Recycling
+UDCPPtppi,Lipopolysaccharide Biosynthesis and Recycling
+UDPGDC,Lipopolysaccharide Biosynthesis and Recycling
+UDPKAAT,Lipopolysaccharide Biosynthesis and Recycling
+UHGADA,Lipopolysaccharide Biosynthesis and Recycling
+ULA4NFT,Lipopolysaccharide Biosynthesis and Recycling
+ULA4Ntppi,Lipopolysaccharide Biosynthesis and Recycling
+UPLA4FNF,Lipopolysaccharide Biosynthesis and Recycling
+UPLA4FNT,Lipopolysaccharide Biosynthesis and Recycling
+USHD,Lipopolysaccharide Biosynthesis and Recycling
+ACACT1r,Membrane Lipid Metabolism
+ACACT2r,Membrane Lipid Metabolism
+ACACT3r,Membrane Lipid Metabolism
+ACACT4r,Membrane Lipid Metabolism
+ACACT5r,Membrane Lipid Metabolism
+ACACT6r,Membrane Lipid Metabolism
+ACACT7r,Membrane Lipid Metabolism
+ACACT8r,Membrane Lipid Metabolism
+ACCOAC,Membrane Lipid Metabolism
+ACOAD1f,Membrane Lipid Metabolism
+ACOAD2f,Membrane Lipid Metabolism
+ACOAD3f,Membrane Lipid Metabolism
+ACOAD4f,Membrane Lipid Metabolism
+ACOAD5f,Membrane Lipid Metabolism
+ACOAD6f,Membrane Lipid Metabolism
+ACOAD7f,Membrane Lipid Metabolism
+ACOAD8f,Membrane Lipid Metabolism
+ACOATA,Membrane Lipid Metabolism
+CTECOAI6,Membrane Lipid Metabolism
+CTECOAI7,Membrane Lipid Metabolism
+CTECOAI8,Membrane Lipid Metabolism
+ECOAH1,Membrane Lipid Metabolism
+ECOAH2,Membrane Lipid Metabolism
+ECOAH3,Membrane Lipid Metabolism
+ECOAH4,Membrane Lipid Metabolism
+ECOAH5,Membrane Lipid Metabolism
+ECOAH6,Membrane Lipid Metabolism
+ECOAH7,Membrane Lipid Metabolism
+ECOAH8,Membrane Lipid Metabolism
+HACD1,Membrane Lipid Metabolism
+HACD2,Membrane Lipid Metabolism
+HACD3,Membrane Lipid Metabolism
+HACD4,Membrane Lipid Metabolism
+HACD5,Membrane Lipid Metabolism
+HACD6,Membrane Lipid Metabolism
+HACD7,Membrane Lipid Metabolism
+HACD8,Membrane Lipid Metabolism
+KAS14,Membrane Lipid Metabolism
+KAS15,Membrane Lipid Metabolism
+MACPD,Membrane Lipid Metabolism
+MCOATA,Membrane Lipid Metabolism
+AHCYSNS,Methionine Metabolism
+CYSTL,Methionine Metabolism
+DHPTDCs2,Methionine Metabolism
+HCYSMT,Methionine Metabolism
+HCYSMT2,Methionine Metabolism
+HSST,Methionine Metabolism
+METAT,Methionine Metabolism
+METOX1s,Methionine Metabolism
+METOX2s,Methionine Metabolism
+METS,Methionine Metabolism
+METSOXR1,Methionine Metabolism
+METSOXR2,Methionine Metabolism
+MTHTHFSs,Methionine Metabolism
+RHCCE,Methionine Metabolism
+SHSL1,Methionine Metabolism
+AACTOOR,Methylglyoxal Metabolism
+ALR2,Methylglyoxal Metabolism
+GLYOX,Methylglyoxal Metabolism
+GLYOX3,Methylglyoxal Metabolism
+LALDO2x,Methylglyoxal Metabolism
+LALDO3,Methylglyoxal Metabolism
+LCARR,Methylglyoxal Metabolism
+LGTHL,Methylglyoxal Metabolism
+MGSA,Methylglyoxal Metabolism
+MCTP1App,Murein Biosynthesis
+MCTP1Bpp,Murein Biosynthesis
+MCTP2App,Murein Biosynthesis
+MDDCP1pp,Murein Biosynthesis
+MDDCP2pp,Murein Biosynthesis
+MDDCP3pp,Murein Biosynthesis
+MDDCP4pp,Murein Biosynthesis
+MDDCP5pp,Murein Biosynthesis
+MLDCP1App,Murein Biosynthesis
+MLDCP1Bpp,Murein Biosynthesis
+MLDCP2App,Murein Biosynthesis
+MLDCP2Bpp,Murein Biosynthesis
+MLDCP3App,Murein Biosynthesis
+MPTG,Murein Biosynthesis
+MPTG2,Murein Biosynthesis
+3PEPTabcpp,Murein Recycling
+4PCP,Murein Recycling
+4PCPpp,Murein Recycling
+4PEPTabcpp,Murein Recycling
+ACGAMK,Murein Recycling
+AGM3PA,Murein Recycling
+AGM3PApp,Murein Recycling
+AGM3PH,Murein Recycling
+AGM3Pt2pp,Murein Recycling
+AGM4PA,Murein Recycling
+AGM4PApp,Murein Recycling
+AGM4PCP,Murein Recycling
+AGM4PCPpp,Murein Recycling
+AGM4PH,Murein Recycling
+AGM4Pt2pp,Murein Recycling
+AGMH,Murein Recycling
+AGMt2pp,Murein Recycling
+ALAALAD,Murein Recycling
+ALAGLUE,Murein Recycling
+AM3PA,Murein Recycling
+AM4PA,Murein Recycling
+AM4PCP,Murein Recycling
+ANHMK,Murein Recycling
+LADGMDH,Murein Recycling
+LALGP,Murein Recycling
+MDDEP1pp,Murein Recycling
+MDDEP2pp,Murein Recycling
+MDDEP3pp,Murein Recycling
+MDDEP4pp,Murein Recycling
+MLDEP1pp,Murein Recycling
+MLDEP2pp,Murein Recycling
+MLTGY1pp,Murein Recycling
+MLTGY2pp,Murein Recycling
+MLTGY3pp,Murein Recycling
+MLTGY4pp,Murein Recycling
+UM3PL,Murein Recycling
+UM4PCP,Murein Recycling
+UM4PL,Murein Recycling
+42A12BOOXpp,Nitrogen Metabolism
+ALLTN,Nitrogen Metabolism
+CYNTAH,Nitrogen Metabolism
+NHFRBO,Nitrogen Metabolism
+NO3R1bpp,Nitrogen Metabolism
+NO3R2bpp,Nitrogen Metabolism
+NODOx,Nitrogen Metabolism
+NODOy,Nitrogen Metabolism
+NTRIR3pp,Nitrogen Metabolism
+NTRIR4pp,Nitrogen Metabolism
+PEAMNOpp,Nitrogen Metabolism
+TYROXDApp,Nitrogen Metabolism
+UGLYCH,Nitrogen Metabolism
+23PDE2pp,Nucleotide Salvage Pathway
+23PDE4pp,Nucleotide Salvage Pathway
+23PDE7pp,Nucleotide Salvage Pathway
+23PDE9pp,Nucleotide Salvage Pathway
+3AMACHYD,Nucleotide Salvage Pathway
+3NTD2pp,Nucleotide Salvage Pathway
+3NTD4pp,Nucleotide Salvage Pathway
+3NTD7pp,Nucleotide Salvage Pathway
+3NTD9pp,Nucleotide Salvage Pathway
+ADA,Nucleotide Salvage Pathway
+ADD,Nucleotide Salvage Pathway
+ADK1,Nucleotide Salvage Pathway
+ADK3,Nucleotide Salvage Pathway
+ADK4,Nucleotide Salvage Pathway
+ADNCYC,Nucleotide Salvage Pathway
+ADNK1,Nucleotide Salvage Pathway
+ADPRDP,Nucleotide Salvage Pathway
+ADPT,Nucleotide Salvage Pathway
+AMPN,Nucleotide Salvage Pathway
+AP4AH,Nucleotide Salvage Pathway
+AP4AS,Nucleotide Salvage Pathway
+AP5AH,Nucleotide Salvage Pathway
+ATPHs,Nucleotide Salvage Pathway
+CBMD,Nucleotide Salvage Pathway
+CMPN,Nucleotide Salvage Pathway
+CSND,Nucleotide Salvage Pathway
+CYTD,Nucleotide Salvage Pathway
+CYTDK2,Nucleotide Salvage Pathway
+CYTK1,Nucleotide Salvage Pathway
+CYTK2,Nucleotide Salvage Pathway
+DADA,Nucleotide Salvage Pathway
+DADK,Nucleotide Salvage Pathway
+DATPHs,Nucleotide Salvage Pathway
+DCTPD,Nucleotide Salvage Pathway
+DCYTD,Nucleotide Salvage Pathway
+DGK1,Nucleotide Salvage Pathway
+DTMPK,Nucleotide Salvage Pathway
+DURADx,Nucleotide Salvage Pathway
+DURIK1,Nucleotide Salvage Pathway
+DURIPP,Nucleotide Salvage Pathway
+DUTPDP,Nucleotide Salvage Pathway
+GK1,Nucleotide Salvage Pathway
+GP4GH,Nucleotide Salvage Pathway
+GSNK,Nucleotide Salvage Pathway
+GTPHs,Nucleotide Salvage Pathway
+GUACYC,Nucleotide Salvage Pathway
+GUAD,Nucleotide Salvage Pathway
+GUAPRT,Nucleotide Salvage Pathway
+HXAND,Nucleotide Salvage Pathway
+HXPRT,Nucleotide Salvage Pathway
+INSH,Nucleotide Salvage Pathway
+INSK,Nucleotide Salvage Pathway
+MSAR,Nucleotide Salvage Pathway
+NDPK1,Nucleotide Salvage Pathway
+NDPK2,Nucleotide Salvage Pathway
+NDPK3,Nucleotide Salvage Pathway
+NDPK4,Nucleotide Salvage Pathway
+NDPK5,Nucleotide Salvage Pathway
+NDPK6,Nucleotide Salvage Pathway
+NDPK7,Nucleotide Salvage Pathway
+NDPK8,Nucleotide Salvage Pathway
+NNATr,Nucleotide Salvage Pathway
+NTD1,Nucleotide Salvage Pathway
+NTD10,Nucleotide Salvage Pathway
+NTD10pp,Nucleotide Salvage Pathway
+NTD11,Nucleotide Salvage Pathway
+NTD11pp,Nucleotide Salvage Pathway
+NTD12,Nucleotide Salvage Pathway
+NTD12pp,Nucleotide Salvage Pathway
+NTD1pp,Nucleotide Salvage Pathway
+NTD2,Nucleotide Salvage Pathway
+NTD2pp,Nucleotide Salvage Pathway
+NTD3,Nucleotide Salvage Pathway
+NTD3pp,Nucleotide Salvage Pathway
+NTD4,Nucleotide Salvage Pathway
+NTD4pp,Nucleotide Salvage Pathway
+NTD5,Nucleotide Salvage Pathway
+NTD5pp,Nucleotide Salvage Pathway
+NTD6,Nucleotide Salvage Pathway
+NTD6pp,Nucleotide Salvage Pathway
+NTD7,Nucleotide Salvage Pathway
+NTD7pp,Nucleotide Salvage Pathway
+NTD8,Nucleotide Salvage Pathway
+NTD8pp,Nucleotide Salvage Pathway
+NTD9,Nucleotide Salvage Pathway
+NTD9pp,Nucleotide Salvage Pathway
+NTP1,Nucleotide Salvage Pathway
+NTP10,Nucleotide Salvage Pathway
+NTP11,Nucleotide Salvage Pathway
+NTP12,Nucleotide Salvage Pathway
+NTP3,Nucleotide Salvage Pathway
+NTP3pp,Nucleotide Salvage Pathway
+NTP5,Nucleotide Salvage Pathway
+NTPP1,Nucleotide Salvage Pathway
+NTPP10,Nucleotide Salvage Pathway
+NTPP11,Nucleotide Salvage Pathway
+NTPP2,Nucleotide Salvage Pathway
+NTPP3,Nucleotide Salvage Pathway
+NTPP4,Nucleotide Salvage Pathway
+NTPP5,Nucleotide Salvage Pathway
+NTPP6,Nucleotide Salvage Pathway
+NTPP7,Nucleotide Salvage Pathway
+NTPP8,Nucleotide Salvage Pathway
+NTPP9,Nucleotide Salvage Pathway
+NTPTP1,Nucleotide Salvage Pathway
+NTPTP2,Nucleotide Salvage Pathway
+PDE1,Nucleotide Salvage Pathway
+PDE4,Nucleotide Salvage Pathway
+POAACR,Nucleotide Salvage Pathway
+PUNP1,Nucleotide Salvage Pathway
+PUNP2,Nucleotide Salvage Pathway
+PUNP3,Nucleotide Salvage Pathway
+PUNP4,Nucleotide Salvage Pathway
+PUNP5,Nucleotide Salvage Pathway
+PUNP6,Nucleotide Salvage Pathway
+PUNP7,Nucleotide Salvage Pathway
+PYNP2r,Nucleotide Salvage Pathway
+PYROX,Nucleotide Salvage Pathway
+RNDR1,Nucleotide Salvage Pathway
+RNDR1b,Nucleotide Salvage Pathway
+RNDR2,Nucleotide Salvage Pathway
+RNDR2b,Nucleotide Salvage Pathway
+RNDR3,Nucleotide Salvage Pathway
+RNDR3b,Nucleotide Salvage Pathway
+RNDR4,Nucleotide Salvage Pathway
+RNDR4b,Nucleotide Salvage Pathway
+RNTR1c2,Nucleotide Salvage Pathway
+RNTR2c2,Nucleotide Salvage Pathway
+RNTR3c2,Nucleotide Salvage Pathway
+RNTR4c2,Nucleotide Salvage Pathway
+TMDK1,Nucleotide Salvage Pathway
+TMDPP,Nucleotide Salvage Pathway
+TMDS,Nucleotide Salvage Pathway
+UMPK,Nucleotide Salvage Pathway
+UPPRT,Nucleotide Salvage Pathway
+URACPAH,Nucleotide Salvage Pathway
+URIK2,Nucleotide Salvage Pathway
+XAND,Nucleotide Salvage Pathway
+XPPT,Nucleotide Salvage Pathway
+XTSNH,Nucleotide Salvage Pathway
+ATPS4rpp,Oxidative Phosphorylation
+CRNBTCT,Oxidative Phosphorylation
+CRNCAL2,Oxidative Phosphorylation
+CRNCAR,Oxidative Phosphorylation
+CRNCBCT,Oxidative Phosphorylation
+CRNCDH,Oxidative Phosphorylation
+CRNDCAL2,Oxidative Phosphorylation
+CTBTCAL2,Oxidative Phosphorylation
+CYTBD2pp,Oxidative Phosphorylation
+CYTBDpp,Oxidative Phosphorylation
+CYTBO3_4pp,Oxidative Phosphorylation
+DMSOR1,Oxidative Phosphorylation
+DMSOR1pp,Oxidative Phosphorylation
+DMSOR2,Oxidative Phosphorylation
+DMSOR2pp,Oxidative Phosphorylation
+FDH4pp,Oxidative Phosphorylation
+FDH5pp,Oxidative Phosphorylation
+G3PD5,Oxidative Phosphorylation
+G3PD6,Oxidative Phosphorylation
+G3PD7,Oxidative Phosphorylation
+GLCDpp,Oxidative Phosphorylation
+HYD1pp,Oxidative Phosphorylation
+HYD2pp,Oxidative Phosphorylation
+HYD3pp,Oxidative Phosphorylation
+L-LACD2,Oxidative Phosphorylation
+L-LACD3,Oxidative Phosphorylation
+LDH_D2,Oxidative Phosphorylation
+NADH10,Oxidative Phosphorylation
+NADH16pp,Oxidative Phosphorylation
+NADH17pp,Oxidative Phosphorylation
+NADH18pp,Oxidative Phosphorylation
+NADH5,Oxidative Phosphorylation
+NADH9,Oxidative Phosphorylation
+NADPHQR2,Oxidative Phosphorylation
+NADPHQR3,Oxidative Phosphorylation
+NADPHQR4,Oxidative Phosphorylation
+NADTRHD,Oxidative Phosphorylation
+NO3R1pp,Oxidative Phosphorylation
+NO3R2pp,Oxidative Phosphorylation
+NTRIR2x,Oxidative Phosphorylation
+POX,Oxidative Phosphorylation
+PPK2r,Oxidative Phosphorylation
+PPKr,Oxidative Phosphorylation
+QMO2,Oxidative Phosphorylation
+QMO3,Oxidative Phosphorylation
+SUCDi,Oxidative Phosphorylation
+THD2pp,Oxidative Phosphorylation
+TMAOR1,Oxidative Phosphorylation
+TMAOR1pp,Oxidative Phosphorylation
+TMAOR2,Oxidative Phosphorylation
+TMAOR2pp,Oxidative Phosphorylation
+TRDR,Oxidative Phosphorylation
+EDA,Pentose Phosphate Pathway
+EDD,Pentose Phosphate Pathway
+FBA3,Pentose Phosphate Pathway
+G6PDH2r,Pentose Phosphate Pathway
+GND,Pentose Phosphate Pathway
+PFK_3,Pentose Phosphate Pathway
+PGL,Pentose Phosphate Pathway
+RPE,Pentose Phosphate Pathway
+RPI,Pentose Phosphate Pathway
+TALA,Pentose Phosphate Pathway
+TKT1,Pentose Phosphate Pathway
+TKT2,Pentose Phosphate Pathway
+ADSL1r,Purine and Pyrimidine Biosynthesis
+ADSL2r,Purine and Pyrimidine Biosynthesis
+ADSS,Purine and Pyrimidine Biosynthesis
+AICART,Purine and Pyrimidine Biosynthesis
+AIRC2,Purine and Pyrimidine Biosynthesis
+AIRC3,Purine and Pyrimidine Biosynthesis
+ASPCT,Purine and Pyrimidine Biosynthesis
+CTPS2,Purine and Pyrimidine Biosynthesis
+DHORD2,Purine and Pyrimidine Biosynthesis
+DHORD5,Purine and Pyrimidine Biosynthesis
+DHORDfum,Purine and Pyrimidine Biosynthesis
+DHORTS,Purine and Pyrimidine Biosynthesis
+GARFT,Purine and Pyrimidine Biosynthesis
+GART,Purine and Pyrimidine Biosynthesis
+GLUPRT,Purine and Pyrimidine Biosynthesis
+GMPR,Purine and Pyrimidine Biosynthesis
+GMPS2,Purine and Pyrimidine Biosynthesis
+IMPC,Purine and Pyrimidine Biosynthesis
+IMPD,Purine and Pyrimidine Biosynthesis
+OMPDC,Purine and Pyrimidine Biosynthesis
+ORPT,Purine and Pyrimidine Biosynthesis
+PRAGSr,Purine and Pyrimidine Biosynthesis
+PRAIS,Purine and Pyrimidine Biosynthesis
+PRASCSi,Purine and Pyrimidine Biosynthesis
+PRFGS,Purine and Pyrimidine Biosynthesis
+ACALD,Pyruvate Metabolism
+ACKr,Pyruvate Metabolism
+ACS,Pyruvate Metabolism
+ALCD2x,Pyruvate Metabolism
+FHL,Pyruvate Metabolism
+LDH_D,Pyruvate Metabolism
+OAADC,Pyruvate Metabolism
+PFL,Pyruvate Metabolism
+POR5,Pyruvate Metabolism
+PTAr,Pyruvate Metabolism
+AOBUTDs,Threonine and Lysine Metabolism
+APPLDHr,Threonine and Lysine Metabolism
+ASAD,Threonine and Lysine Metabolism
+ASPK,Threonine and Lysine Metabolism
+ATHRDHr,Threonine and Lysine Metabolism
+DAPDC,Threonine and Lysine Metabolism
+DAPE,Threonine and Lysine Metabolism
+DHDPRy,Threonine and Lysine Metabolism
+DHDPS,Threonine and Lysine Metabolism
+HSDy,Threonine and Lysine Metabolism
+HSK,Threonine and Lysine Metabolism
+LYSDC,Threonine and Lysine Metabolism
+PTHRpp,Threonine and Lysine Metabolism
+SDPDS,Threonine and Lysine Metabolism
+SDPTA,Threonine and Lysine Metabolism
+THDPS,Threonine and Lysine Metabolism
+THRA2i,Threonine and Lysine Metabolism
+THRAi,Threonine and Lysine Metabolism
+THRS,Threonine and Lysine Metabolism
+12DGR120tipp,Transport Inner Membrane
+12DGR140tipp,Transport Inner Membrane
+12DGR141tipp,Transport Inner Membrane
+12DGR160tipp,Transport Inner Membrane
+12DGR161tipp,Transport Inner Membrane
+12DGR180tipp,Transport Inner Membrane
+12DGR181tipp,Transport Inner Membrane
+12PPDRtpp,Transport Inner Membrane
+12PPDStpp,Transport Inner Membrane
+14GLUCANabcpp,Transport Inner Membrane
+23DAPPAt2pp,Transport Inner Membrane
+2AGPA120tipp,Transport Inner Membrane
+2AGPA140tipp,Transport Inner Membrane
+2AGPA141tipp,Transport Inner Membrane
+2AGPA160tipp,Transport Inner Membrane
+2AGPA161tipp,Transport Inner Membrane
+2AGPA180tipp,Transport Inner Membrane
+2AGPA181tipp,Transport Inner Membrane
+2AGPE120tipp,Transport Inner Membrane
+2AGPE140tipp,Transport Inner Membrane
+2AGPE141tipp,Transport Inner Membrane
+2AGPE160tipp,Transport Inner Membrane
+2AGPE161tipp,Transport Inner Membrane
+2AGPE180tipp,Transport Inner Membrane
+2AGPE181tipp,Transport Inner Membrane
+2AGPG120tipp,Transport Inner Membrane
+2AGPG140tipp,Transport Inner Membrane
+2AGPG141tipp,Transport Inner Membrane
+2AGPG160tipp,Transport Inner Membrane
+2AGPG161tipp,Transport Inner Membrane
+2AGPG180tipp,Transport Inner Membrane
+2AGPG181tipp,Transport Inner Membrane
+3HPPtpp,Transport Inner Membrane
+5DGLCNt2rpp,Transport Inner Membrane
+5MTRtpp,Transport Inner Membrane
+ABUTt2pp,Transport Inner Membrane
+ACACt2pp,Transport Inner Membrane
+ACALDtpp,Transport Inner Membrane
+ACGAptspp,Transport Inner Membrane
+ACMANAptspp,Transport Inner Membrane
+ACMUMptspp,Transport Inner Membrane
+ACNAMt2pp,Transport Inner Membrane
+ACSERtpp,Transport Inner Membrane
+ACt2rpp,Transport Inner Membrane
+ACt4pp,Transport Inner Membrane
+ADEt2rpp,Transport Inner Membrane
+ADNt2pp,Transport Inner Membrane
+ADNt2rpp,Transport Inner Membrane
+ADOCBLabcpp,Transport Inner Membrane
+AKGt2rpp,Transport Inner Membrane
+ALAabcpp,Transport Inner Membrane
+ALAALAabcpp,Transport Inner Membrane
+ALAt2pp,Transport Inner Membrane
+ALAt2rpp,Transport Inner Membrane
+ALAt4pp,Transport Inner Membrane
+ALLabcpp,Transport Inner Membrane
+ALLTNt2rpp,Transport Inner Membrane
+ARBabcpp,Transport Inner Membrane
+ARBt2rpp,Transport Inner Membrane
+ARBt3ipp,Transport Inner Membrane
+ARBTNabcpp,Transport Inner Membrane
+ARBTptspp,Transport Inner Membrane
+ARGabcpp,Transport Inner Membrane
+ARGAGMt7pp,Transport Inner Membrane
+ARGORNt7pp,Transport Inner Membrane
+ARGt3pp,Transport Inner Membrane
+ASCBptspp,Transport Inner Membrane
+ASNabcpp,Transport Inner Membrane
+ASNt2rpp,Transport Inner Membrane
+ASO3t8pp,Transport Inner Membrane
+ASPabcpp,Transport Inner Membrane
+ASPt2_2pp,Transport Inner Membrane
+ASPt2_3pp,Transport Inner Membrane
+ASPt2pp,Transport Inner Membrane
+ASPt2rpp,Transport Inner Membrane
+BALAt2pp,Transport Inner Membrane
+BTNt2ipp,Transport Inner Membrane
+BUTSO3abcpp,Transport Inner Membrane
+BUTt2rpp,Transport Inner Membrane
+CADVtpp,Transport Inner Membrane
+CBIuabcpp,Transport Inner Membrane
+CBL1abcpp,Transport Inner Membrane
+CGLYabcpp,Transport Inner Membrane
+CHLabcpp,Transport Inner Membrane
+CHLt2pp,Transport Inner Membrane
+CHTBSptspp,Transport Inner Membrane
+CITt3pp,Transport Inner Membrane
+CITt7pp,Transport Inner Membrane
+CO2tpp,Transport Inner Membrane
+CPGNabcpp,Transport Inner Membrane
+CRNabcpp,Transport Inner Membrane
+CRNDabcpp,Transport Inner Membrane
+CRNDt2rpp,Transport Inner Membrane
+CRNt2rpp,Transport Inner Membrane
+CRNt7pp,Transport Inner Membrane
+CRNt8pp,Transport Inner Membrane
+CSNt2pp,Transport Inner Membrane
+CTBTabcpp,Transport Inner Membrane
+CTBTt2rpp,Transport Inner Membrane
+CYNTt2pp,Transport Inner Membrane
+CYSabc2pp,Transport Inner Membrane
+CYSabcpp,Transport Inner Membrane
+CYSDabcpp,Transport Inner Membrane
+CYStpp,Transport Inner Membrane
+CYTDt2pp,Transport Inner Membrane
+CYTDt2rpp,Transport Inner Membrane
+D-LACt2pp,Transport Inner Membrane
+DADNt2pp,Transport Inner Membrane
+DALAt2pp,Transport Inner Membrane
+DAPabcpp,Transport Inner Membrane
+DCYTt2pp,Transport Inner Membrane
+DDGLCNt2rpp,Transport Inner Membrane
+DGSNt2pp,Transport Inner Membrane
+DHAtpp,Transport Inner Membrane
+DINSt2pp,Transport Inner Membrane
+DMSOtpp,Transport Inner Membrane
+DSERt2pp,Transport Inner Membrane
+DURIt2pp,Transport Inner Membrane
+ETHAt2pp,Transport Inner Membrane
+ETHSO3abcpp,Transport Inner Membrane
+ETOHtrpp,Transport Inner Membrane
+F6Pt6_2pp,Transport Inner Membrane
+FALDtpp,Transport Inner Membrane
+FEENTERtpp,Transport Inner Membrane
+FORt2pp,Transport Inner Membrane
+FORtppi,Transport Inner Membrane
+FRULYSt2pp,Transport Inner Membrane
+FRUpts2pp,Transport Inner Membrane
+FRUptspp,Transport Inner Membrane
+FRUURt2rpp,Transport Inner Membrane
+FUCtpp,Transport Inner Membrane
+FUMt2_2pp,Transport Inner Membrane
+FUMt2_3pp,Transport Inner Membrane
+G3PCabcpp,Transport Inner Membrane
+G3PEabcpp,Transport Inner Membrane
+G3PGabcpp,Transport Inner Membrane
+G3PIabcpp,Transport Inner Membrane
+G3PSabcpp,Transport Inner Membrane
+G6Pt6_2pp,Transport Inner Membrane
+GALabcpp,Transport Inner Membrane
+GALCTNLt2pp,Transport Inner Membrane
+GALCTNt2pp,Transport Inner Membrane
+GALCTt2rpp,Transport Inner Membrane
+GALt2pp,Transport Inner Membrane
+GALTptspp,Transport Inner Membrane
+GALURt2rpp,Transport Inner Membrane
+GAM6Pt6_2pp,Transport Inner Membrane
+GAMptspp,Transport Inner Membrane
+GLCabcpp,Transport Inner Membrane
+GLCNt2rpp,Transport Inner Membrane
+GLCptspp,Transport Inner Membrane
+GLCRt2rpp,Transport Inner Membrane
+GLCt2pp,Transport Inner Membrane
+GLCURt2rpp,Transport Inner Membrane
+GLNabcpp,Transport Inner Membrane
+GLUabcpp,Transport Inner Membrane
+GLUABUTt7pp,Transport Inner Membrane
+GLUt2rpp,Transport Inner Membrane
+GLUt4pp,Transport Inner Membrane
+GLYALDtpp,Transport Inner Membrane
+GLYBabcpp,Transport Inner Membrane
+GLYBt2pp,Transport Inner Membrane
+GLYC2Pabcpp,Transport Inner Membrane
+GLYC3Pabcpp,Transport Inner Membrane
+GLYC3Pt6pp,Transport Inner Membrane
+GLYCAt2rpp,Transport Inner Membrane
+GLYCLTt2rpp,Transport Inner Membrane
+GLYCLTt4pp,Transport Inner Membrane
+GLYCtpp,Transport Inner Membrane
+GLYt2pp,Transport Inner Membrane
+GLYt2rpp,Transport Inner Membrane
+GLYt4pp,Transport Inner Membrane
+GSNt2pp,Transport Inner Membrane
+GTHRDabc2pp,Transport Inner Membrane
+GTHRDabcpp,Transport Inner Membrane
+GUAt2pp,Transport Inner Membrane
+GUAtpp,Transport Inner Membrane
+H2Otpp,Transport Inner Membrane
+H2St1pp,Transport Inner Membrane
+H2tpp,Transport Inner Membrane
+HCINNMt2rpp,Transport Inner Membrane
+HEXt2rpp,Transport Inner Membrane
+HISabcpp,Transport Inner Membrane
+HISt2rpp,Transport Inner Membrane
+HOMt2pp,Transport Inner Membrane
+HPPPNt2rpp,Transport Inner Membrane
+HYXNtpp,Transport Inner Membrane
+IDONt2rpp,Transport Inner Membrane
+ILEabcpp,Transport Inner Membrane
+ILEt2rpp,Transport Inner Membrane
+INDOLEt2pp,Transport Inner Membrane
+INDOLEt2rpp,Transport Inner Membrane
+INOSTt4pp,Transport Inner Membrane
+INSt2pp,Transport Inner Membrane
+INSt2rpp,Transport Inner Membrane
+ISETACabcpp,Transport Inner Membrane
+K2L4Aabcpp,Transport Inner Membrane
+L-LACt2rpp,Transport Inner Membrane
+LALADGLUtpp,Transport Inner Membrane
+LALALGLUtpp,Transport Inner Membrane
+LCTSt3ipp,Transport Inner Membrane
+LCTStpp,Transport Inner Membrane
+LEUabcpp,Transport Inner Membrane
+LEUt2rpp,Transport Inner Membrane
+LIPOt2pp,Transport Inner Membrane
+LYSabcpp,Transport Inner Membrane
+LYSt2pp,Transport Inner Membrane
+LYSt3pp,Transport Inner Membrane
+LYXt2pp,Transport Inner Membrane
+MALDt2_2pp,Transport Inner Membrane
+MALt2_2pp,Transport Inner Membrane
+MALt2_3pp,Transport Inner Membrane
+MALt3pp,Transport Inner Membrane
+MALTabcpp,Transport Inner Membrane
+MALTHXabcpp,Transport Inner Membrane
+MALTPTabcpp,Transport Inner Membrane
+MALTptspp,Transport Inner Membrane
+MALTTRabcpp,Transport Inner Membrane
+MALTTTRabcpp,Transport Inner Membrane
+MAN6Pt6_2pp,Transport Inner Membrane
+MANGLYCptspp,Transport Inner Membrane
+MANptspp,Transport Inner Membrane
+MELIBt2pp,Transport Inner Membrane
+MELIBt3ipp,Transport Inner Membrane
+MEOHtrpp,Transport Inner Membrane
+METabcpp,Transport Inner Membrane
+METDabcpp,Transport Inner Membrane
+METSOX1abcpp,Transport Inner Membrane
+METSOX2abcpp,Transport Inner Membrane
+MMETt2pp,Transport Inner Membrane
+MNLptspp,Transport Inner Membrane
+MNt2pp,Transport Inner Membrane
+MSO3abcpp,Transport Inner Membrane
+NACtpp,Transport Inner Membrane
+NMNPtpp,Transport Inner Membrane
+NMNt7pp,Transport Inner Membrane
+ORNabcpp,Transport Inner Membrane
+OROTt2_2pp,Transport Inner Membrane
+PA120abcpp,Transport Inner Membrane
+PA140abcpp,Transport Inner Membrane
+PA141abcpp,Transport Inner Membrane
+PA160abcpp,Transport Inner Membrane
+PA161abcpp,Transport Inner Membrane
+PA180abcpp,Transport Inner Membrane
+PA181abcpp,Transport Inner Membrane
+PACALDt2rpp,Transport Inner Membrane
+PE120abcpp,Transport Inner Membrane
+PE140abcpp,Transport Inner Membrane
+PE141abcpp,Transport Inner Membrane
+PE160abcpp,Transport Inner Membrane
+PE161abcpp,Transport Inner Membrane
+PE180abcpp,Transport Inner Membrane
+PE181abcpp,Transport Inner Membrane
+PG120abcpp,Transport Inner Membrane
+PG140abcpp,Transport Inner Membrane
+PG141abcpp,Transport Inner Membrane
+PG160abcpp,Transport Inner Membrane
+PG161abcpp,Transport Inner Membrane
+PG180abcpp,Transport Inner Membrane
+PG181abcpp,Transport Inner Membrane
+PGP120abcpp,Transport Inner Membrane
+PGP140abcpp,Transport Inner Membrane
+PGP141abcpp,Transport Inner Membrane
+PGP160abcpp,Transport Inner Membrane
+PGP161abcpp,Transport Inner Membrane
+PGP180abcpp,Transport Inner Membrane
+PGP181abcpp,Transport Inner Membrane
+PHEMEabcpp,Transport Inner Membrane
+PHEt2rpp,Transport Inner Membrane
+PNTOt4pp,Transport Inner Membrane
+PPALtpp,Transport Inner Membrane
+PPAt4pp,Transport Inner Membrane
+PPPNt2rpp,Transport Inner Membrane
+PROabcpp,Transport Inner Membrane
+PROGLYabcpp,Transport Inner Membrane
+PROt2rpp,Transport Inner Membrane
+PROt4pp,Transport Inner Membrane
+PSCLYSt2pp,Transport Inner Membrane
+PTRCabcpp,Transport Inner Membrane
+PTRCORNt7pp,Transport Inner Membrane
+PTRCt2pp,Transport Inner Membrane
+PYDAMtpp,Transport Inner Membrane
+PYDXNtpp,Transport Inner Membrane
+PYDXtpp,Transport Inner Membrane
+PYRt2rpp,Transport Inner Membrane
+QUIN2tpp,Transport Inner Membrane
+RIBabcpp,Transport Inner Membrane
+RMNtpp,Transport Inner Membrane
+SBTptspp,Transport Inner Membrane
+SERt2rpp,Transport Inner Membrane
+SERt4pp,Transport Inner Membrane
+SKMt2pp,Transport Inner Membrane
+SPMDabcpp,Transport Inner Membrane
+SPMDt3pp,Transport Inner Membrane
+SUCASPtpp,Transport Inner Membrane
+SUCCt2_2pp,Transport Inner Membrane
+SUCCt2_3pp,Transport Inner Membrane
+SUCCt3pp,Transport Inner Membrane
+SUCFUMtpp,Transport Inner Membrane
+SUCMALtpp,Transport Inner Membrane
+SUCptspp,Transport Inner Membrane
+SUCTARTtpp,Transport Inner Membrane
+SULFACabcpp,Transport Inner Membrane
+TARTRt7pp,Transport Inner Membrane
+TARTt2_3pp,Transport Inner Membrane
+TAURabcpp,Transport Inner Membrane
+TDSR1,Transport Inner Membrane
+TDSR2,Transport Inner Membrane
+THMabcpp,Transport Inner Membrane
+THMDt2pp,Transport Inner Membrane
+THMDt2rpp,Transport Inner Membrane
+THRabcpp,Transport Inner Membrane
+THRt2pp,Transport Inner Membrane
+THRt2rpp,Transport Inner Membrane
+THRt4pp,Transport Inner Membrane
+THYMt3pp,Transport Inner Membrane
+TREptspp,Transport Inner Membrane
+TRPt2rpp,Transport Inner Membrane
+TYRt2rpp,Transport Inner Membrane
+URAt2pp,Transport Inner Membrane
+URAt2rpp,Transport Inner Membrane
+UREAtpp,Transport Inner Membrane
+URIt2pp,Transport Inner Membrane
+URIt2rpp,Transport Inner Membrane
+VALabcpp,Transport Inner Membrane
+VALt2rpp,Transport Inner Membrane
+XANt2pp,Transport Inner Membrane
+XANtpp,Transport Inner Membrane
+XTSNt2rpp,Transport Inner Membrane
+XYLabcpp,Transport Inner Membrane
+XYLt2pp,Transport Inner Membrane
+XYLUt2pp,Transport Inner Membrane
+14GLUCANtexi,Transport Outer Membrane
+ACNAMtex,Transport Outer Membrane
+ADNtex,Transport Outer Membrane
+ADOCBLtonex,Transport Outer Membrane
+ARBTNtex,Transport Outer Membrane
+ARBTNtonex,Transport Outer Membrane
+CBItonex,Transport Outer Membrane
+CBL1tonex,Transport Outer Membrane
+CMtpp,Transport Outer Membrane
+CPGNtonex,Transport Outer Membrane
+CUt3,Transport Outer Membrane
+DADNtex,Transport Outer Membrane
+DCYTtex,Transport Outer Membrane
+DDCAtexi,Transport Outer Membrane
+DOXRBCNtpp,Transport Outer Membrane
+DURItex,Transport Outer Membrane
+FE3DCITtonex,Transport Outer Membrane
+FE3DHBZStonex,Transport Outer Membrane
+FE3HOXtonex,Transport Outer Membrane
+FECRMtonex,Transport Outer Membrane
+FEENTERtonex,Transport Outer Membrane
+FEOXAMtonex,Transport Outer Membrane
+FUSAtpp,Transport Outer Membrane
+GLCtexi,Transport Outer Membrane
+GUAtex,Transport Outer Membrane
+HDCAtexi,Transport Outer Membrane
+HDCEAtexi,Transport Outer Membrane
+INStex,Transport Outer Membrane
+MALTHXtexi,Transport Outer Membrane
+MALTPTtexi,Transport Outer Membrane
+MALTtexi,Transport Outer Membrane
+MALTTRtexi,Transport Outer Membrane
+MALTTTRtexi,Transport Outer Membrane
+MINCYCtpp,Transport Outer Membrane
+MINOHPtexi,Transport Outer Membrane
+NOVBCNtex,Transport Outer Membrane
+NOVBCNtpp,Transport Outer Membrane
+OCDCAtexi,Transport Outer Membrane
+OCDCEAtexi,Transport Outer Membrane
+PHEMEtiex,Transport Outer Membrane
+RFAMPtex,Transport Outer Membrane
+RFAMPtpp,Transport Outer Membrane
+TTDCAtexi,Transport Outer Membrane
+TTDCEAtexi,Transport Outer Membrane
+TTRCYCtpp,Transport Outer Membrane
+URItex,Transport Outer Membrane
+12PPDRtex,Transport Outer Membrane Porin
+12PPDStex,Transport Outer Membrane Porin
+23CAMPtex,Transport Outer Membrane Porin
+23CCMPtex,Transport Outer Membrane Porin
+23CGMPtex,Transport Outer Membrane Porin
+23CUMPtex,Transport Outer Membrane Porin
+23DAPPAtex,Transport Outer Membrane Porin
+26DAHtex,Transport Outer Membrane Porin
+34dhpactex,Transport Outer Membrane Porin
+3AMPtex,Transport Outer Membrane Porin
+3CMPtex,Transport Outer Membrane Porin
+3GMPtex,Transport Outer Membrane Porin
+3HPPtex,Transport Outer Membrane Porin
+3PEPTtex,Transport Outer Membrane Porin
+3UMPtex,Transport Outer Membrane Porin
+4HOXPACDtex,Transport Outer Membrane Porin
+4PEPTtex,Transport Outer Membrane Porin
+5DGLCNtex,Transport Outer Membrane Porin
+5MTRtex,Transport Outer Membrane Porin
+ABUTtex,Transport Outer Membrane Porin
+ACACtex,Transport Outer Membrane Porin
+ACALDtex,Transport Outer Membrane Porin
+ACGAL1Ptex,Transport Outer Membrane Porin
+ACGALtex,Transport Outer Membrane Porin
+ACGAM1Ptex,Transport Outer Membrane Porin
+ACGAtex,Transport Outer Membrane Porin
+ACMANAtex,Transport Outer Membrane Porin
+ACMUMtex,Transport Outer Membrane Porin
+ACSERtex,Transport Outer Membrane Porin
+ACtex,Transport Outer Membrane Porin
+ADEtex,Transport Outer Membrane Porin
+AGMtex,Transport Outer Membrane Porin
+AKGtex,Transport Outer Membrane Porin
+ALAALAtex,Transport Outer Membrane Porin
+ALAtex,Transport Outer Membrane Porin
+ALLtex,Transport Outer Membrane Porin
+ALLTNtex,Transport Outer Membrane Porin
+AMPtex,Transport Outer Membrane Porin
+ANHGMtex,Transport Outer Membrane Porin
+ARBtex,Transport Outer Membrane Porin
+ARBTtex,Transport Outer Membrane Porin
+ARGtex,Transport Outer Membrane Porin
+ASCBtex,Transport Outer Membrane Porin
+ASNtex,Transport Outer Membrane Porin
+ASO3tex,Transport Outer Membrane Porin
+ASPtex,Transport Outer Membrane Porin
+BALAtex,Transport Outer Membrane Porin
+BTNtex,Transport Outer Membrane Porin
+BUTSO3tex,Transport Outer Membrane Porin
+BUTtex,Transport Outer Membrane Porin
+CA2tex,Transport Outer Membrane Porin
+CD2tex,Transport Outer Membrane Porin
+CGLYtex,Transport Outer Membrane Porin
+CHLtex,Transport Outer Membrane Porin
+CHTBStex,Transport Outer Membrane Porin
+CITtex,Transport Outer Membrane Porin
+CLtex,Transport Outer Membrane Porin
+CMPtex,Transport Outer Membrane Porin
+CMtex,Transport Outer Membrane Porin
+CO2tex,Transport Outer Membrane Porin
+COBALT2tex,Transport Outer Membrane Porin
+CRNDtex,Transport Outer Membrane Porin
+CRNtex,Transport Outer Membrane Porin
+CSNtex,Transport Outer Membrane Porin
+CU2tex,Transport Outer Membrane Porin
+CUtex,Transport Outer Membrane Porin
+CYANtex,Transport Outer Membrane Porin
+CYNTtex,Transport Outer Membrane Porin
+CYSDtex,Transport Outer Membrane Porin
+CYStex,Transport Outer Membrane Porin
+CYTDtex,Transport Outer Membrane Porin
+D-LACtex,Transport Outer Membrane Porin
+DALAtex,Transport Outer Membrane Porin
+DAMPtex,Transport Outer Membrane Porin
+DAPtex,Transport Outer Membrane Porin
+DCAtex,Transport Outer Membrane Porin
+DCMPtex,Transport Outer Membrane Porin
+DDGLCNtex,Transport Outer Membrane Porin
+DGMPtex,Transport Outer Membrane Porin
+DGSNtex,Transport Outer Membrane Porin
+DHAtex,Transport Outer Membrane Porin
+DIMPtex,Transport Outer Membrane Porin
+DINStex,Transport Outer Membrane Porin
+DMSOtex,Transport Outer Membrane Porin
+DMStex,Transport Outer Membrane Porin
+DOPAtex,Transport Outer Membrane Porin
+DOXRBCNtex,Transport Outer Membrane Porin
+DSERtex,Transport Outer Membrane Porin
+DTMPtex,Transport Outer Membrane Porin
+DUMPtex,Transport Outer Membrane Porin
+ETHAtex,Transport Outer Membrane Porin
+ETHSO3tex,Transport Outer Membrane Porin
+ETOHtex,Transport Outer Membrane Porin
+F6Ptex,Transport Outer Membrane Porin
+FALDtex,Transport Outer Membrane Porin
+FE2tex,Transport Outer Membrane Porin
+FE3tex,Transport Outer Membrane Porin
+FORtex,Transport Outer Membrane Porin
+FRULYStex,Transport Outer Membrane Porin
+FRUtex,Transport Outer Membrane Porin
+FRUURtex,Transport Outer Membrane Porin
+FUCtex,Transport Outer Membrane Porin
+FUMtex,Transport Outer Membrane Porin
+FUSAtex,Transport Outer Membrane Porin
+G1Ptex,Transport Outer Membrane Porin
+G3PCtex,Transport Outer Membrane Porin
+G3PEtex,Transport Outer Membrane Porin
+G3PGtex,Transport Outer Membrane Porin
+G3PItex,Transport Outer Membrane Porin
+G3PStex,Transport Outer Membrane Porin
+G6Ptex,Transport Outer Membrane Porin
+GAL1Ptex,Transport Outer Membrane Porin
+GALBDtex,Transport Outer Membrane Porin
+GALCTNLtex,Transport Outer Membrane Porin
+GALCTNtex,Transport Outer Membrane Porin
+GALCTtex,Transport Outer Membrane Porin
+GALtex,Transport Outer Membrane Porin
+GALTtex,Transport Outer Membrane Porin
+GALURtex,Transport Outer Membrane Porin
+GAMAN6Ptex,Transport Outer Membrane Porin
+GAMtex,Transport Outer Membrane Porin
+GBBTNtex,Transport Outer Membrane Porin
+GDPtex,Transport Outer Membrane Porin
+GLCNtex,Transport Outer Membrane Porin
+GLCRtex,Transport Outer Membrane Porin
+GLCtex,Transport Outer Membrane Porin
+GLCUR1Ptex,Transport Outer Membrane Porin
+GLCURtex,Transport Outer Membrane Porin
+GLNtex,Transport Outer Membrane Porin
+GLUtex,Transport Outer Membrane Porin
+GLYALDtex,Transport Outer Membrane Porin
+GLYBtex,Transport Outer Membrane Porin
+GLYC2Ptex,Transport Outer Membrane Porin
+GLYC3Ptex,Transport Outer Membrane Porin
+GLYCAtex,Transport Outer Membrane Porin
+GLYCLTtex,Transport Outer Membrane Porin
+GLYCtex,Transport Outer Membrane Porin
+GLYtex,Transport Outer Membrane Porin
+GMPtex,Transport Outer Membrane Porin
+GSNtex,Transport Outer Membrane Porin
+GTHOXtex,Transport Outer Membrane Porin
+GTHRDtex,Transport Outer Membrane Porin
+GTPtex,Transport Outer Membrane Porin
+H2O2tex,Transport Outer Membrane Porin
+H2Otex,Transport Outer Membrane Porin
+H2Stex,Transport Outer Membrane Porin
+H2tex,Transport Outer Membrane Porin
+HCINNMtex,Transport Outer Membrane Porin
+HG2tex,Transport Outer Membrane Porin
+HIStex,Transport Outer Membrane Porin
+HOMtex,Transport Outer Membrane Porin
+HPPPNtex,Transport Outer Membrane Porin
+Htex,Transport Outer Membrane Porin
+HXAtex,Transport Outer Membrane Porin
+HYXNtex,Transport Outer Membrane Porin
+IDONtex,Transport Outer Membrane Porin
+ILEtex,Transport Outer Membrane Porin
+IMPtex,Transport Outer Membrane Porin
+INDOLEtex,Transport Outer Membrane Porin
+INSTtex,Transport Outer Membrane Porin
+ISETACtex,Transport Outer Membrane Porin
+Ktex,Transport Outer Membrane Porin
+L-LACtex,Transport Outer Membrane Porin
+LALADGLUtex,Transport Outer Membrane Porin
+LALALGLUtex,Transport Outer Membrane Porin
+LCTStex,Transport Outer Membrane Porin
+LEUtex,Transport Outer Membrane Porin
+LIPOtex,Transport Outer Membrane Porin
+LYStex,Transport Outer Membrane Porin
+LYXtex,Transport Outer Membrane Porin
+MALDtex,Transport Outer Membrane Porin
+MALtex,Transport Outer Membrane Porin
+MAN6Ptex,Transport Outer Membrane Porin
+MANGLYCtex,Transport Outer Membrane Porin
+MANtex,Transport Outer Membrane Porin
+MELIBtex,Transport Outer Membrane Porin
+MEOHtex,Transport Outer Membrane Porin
+METDtex,Transport Outer Membrane Porin
+METSOX1tex,Transport Outer Membrane Porin
+METSOX2tex,Transport Outer Membrane Porin
+METtex,Transport Outer Membrane Porin
+MG2tex,Transport Outer Membrane Porin
+MINCYCtex,Transport Outer Membrane Porin
+MMETtex,Transport Outer Membrane Porin
+MNLtex,Transport Outer Membrane Porin
+MNtex,Transport Outer Membrane Porin
+MOBDtex,Transport Outer Membrane Porin
+MSO3tex,Transport Outer Membrane Porin
+N2Otex,Transport Outer Membrane Porin
+NACtex,Transport Outer Membrane Porin
+NAtex,Transport Outer Membrane Porin
+NH4tex,Transport Outer Membrane Porin
+NI2tex,Transport Outer Membrane Porin
+NMNtex,Transport Outer Membrane Porin
+NO2tex,Transport Outer Membrane Porin
+NO3tex,Transport Outer Membrane Porin
+NOtex,Transport Outer Membrane Porin
+O2Stex,Transport Outer Membrane Porin
+O2tex,Transport Outer Membrane Porin
+OCTAtex,Transport Outer Membrane Porin
+ORNtex,Transport Outer Membrane Porin
+OROTtex,Transport Outer Membrane Porin
+PACALDtex,Transport Outer Membrane Porin
+PEAMNtex,Transport Outer Membrane Porin
+PHEtex,Transport Outer Membrane Porin
+PItex,Transport Outer Membrane Porin
+PNTOtex,Transport Outer Membrane Porin
+PPALtex,Transport Outer Membrane Porin
+PPAtex,Transport Outer Membrane Porin
+PPPNtex,Transport Outer Membrane Porin
+PPTtex,Transport Outer Membrane Porin
+PROGLYtex,Transport Outer Membrane Porin
+PROtex,Transport Outer Membrane Porin
+PSCLYStex,Transport Outer Membrane Porin
+PSERtex,Transport Outer Membrane Porin
+PTRCtex,Transport Outer Membrane Porin
+PYDAMtex,Transport Outer Membrane Porin
+PYDXNtex,Transport Outer Membrane Porin
+PYDXtex,Transport Outer Membrane Porin
+PYRtex,Transport Outer Membrane Porin
+QUIN2tex,Transport Outer Membrane Porin
+R5Ptex,Transport Outer Membrane Porin
+RIBtex,Transport Outer Membrane Porin
+RMNtex,Transport Outer Membrane Porin
+SBTtex,Transport Outer Membrane Porin
+SELtex,Transport Outer Membrane Porin
+SERtex,Transport Outer Membrane Porin
+SKMtex,Transport Outer Membrane Porin
+SLNTtex,Transport Outer Membrane Porin
+SO2tex,Transport Outer Membrane Porin
+SO3tex,Transport Outer Membrane Porin
+SO4tex,Transport Outer Membrane Porin
+SPMDtex,Transport Outer Membrane Porin
+SUCCtex,Transport Outer Membrane Porin
+SUCRtex,Transport Outer Membrane Porin
+SULFACtex,Transport Outer Membrane Porin
+TARTRDtex,Transport Outer Membrane Porin
+TARTRtex,Transport Outer Membrane Porin
+TAURtex,Transport Outer Membrane Porin
+TCYNTtex,Transport Outer Membrane Porin
+THMDtex,Transport Outer Membrane Porin
+THMtex,Transport Outer Membrane Porin
+THRPtex,Transport Outer Membrane Porin
+THRtex,Transport Outer Membrane Porin
+THYMtex,Transport Outer Membrane Porin
+TMAOtex,Transport Outer Membrane Porin
+TMAtex,Transport Outer Membrane Porin
+TREtex,Transport Outer Membrane Porin
+TRPtex,Transport Outer Membrane Porin
+TSULtex,Transport Outer Membrane Porin
+TTRCYCtex,Transport Outer Membrane Porin
+TUNGStex,Transport Outer Membrane Porin
+TYMtex,Transport Outer Membrane Porin
+TYRPtex,Transport Outer Membrane Porin
+TYRtex,Transport Outer Membrane Porin
+UACGAMtex,Transport Outer Membrane Porin
+UDPACGALtex,Transport Outer Membrane Porin
+UDPGALtex,Transport Outer Membrane Porin
+UDPGLCURtex,Transport Outer Membrane Porin
+UDPGtex,Transport Outer Membrane Porin
+UMPtex,Transport Outer Membrane Porin
+URAtex,Transport Outer Membrane Porin
+UREAtex,Transport Outer Membrane Porin
+VALtex,Transport Outer Membrane Porin
+XANtex,Transport Outer Membrane Porin
+XMPtex,Transport Outer Membrane Porin
+XTSNtex,Transport Outer Membrane Porin
+XYLtex,Transport Outer Membrane Porin
+XYLUtex,Transport Outer Membrane Porin
+Zn2tex,Transport Outer Membrane Porin
+ALATRS,tRNA Charging
+ARGTRS,tRNA Charging
+ASNTRS,tRNA Charging
+ASPTRS,tRNA Charging
+CYSTRS,tRNA Charging
+FMETTRS,tRNA Charging
+GLNTRS,tRNA Charging
+GLYTRS,tRNA Charging
+HISTRS,tRNA Charging
+ILETRS,tRNA Charging
+LEUTRS,tRNA Charging
+LYSTRS,tRNA Charging
+METTRS,tRNA Charging
+PHETRS,tRNA Charging
+PROTRS,tRNA Charging
+SELCYSS,tRNA Charging
+SERTRS,tRNA Charging
+SERTRS2,tRNA Charging
+THRTRS,tRNA Charging
+TRPTRS,tRNA Charging
+TYRTRS,tRNA Charging
+VALTRS,tRNA Charging
+ACANTHAT,Tyrosine Tryptophan and Phenylalanine Metabolism
+ANPRT,Tyrosine Tryptophan and Phenylalanine Metabolism
+ANS,Tyrosine Tryptophan and Phenylalanine Metabolism
+CHORM,Tyrosine Tryptophan and Phenylalanine Metabolism
+CHORS,Tyrosine Tryptophan and Phenylalanine Metabolism
+DDPA,Tyrosine Tryptophan and Phenylalanine Metabolism
+DHQS,Tyrosine Tryptophan and Phenylalanine Metabolism
+DHQTi,Tyrosine Tryptophan and Phenylalanine Metabolism
+IGPS,Tyrosine Tryptophan and Phenylalanine Metabolism
+PHETA1,Tyrosine Tryptophan and Phenylalanine Metabolism
+PPND,Tyrosine Tryptophan and Phenylalanine Metabolism
+PPNDH,Tyrosine Tryptophan and Phenylalanine Metabolism
+PRAIi,Tyrosine Tryptophan and Phenylalanine Metabolism
+PSCVT,Tyrosine Tryptophan and Phenylalanine Metabolism
+QUINDH,Tyrosine Tryptophan and Phenylalanine Metabolism
+SHK3Dr,Tyrosine Tryptophan and Phenylalanine Metabolism
+SHKK,Tyrosine Tryptophan and Phenylalanine Metabolism
+TRPAS2,Tyrosine Tryptophan and Phenylalanine Metabolism
+TRPS1,Tyrosine Tryptophan and Phenylalanine Metabolism
+TRPS2,Tyrosine Tryptophan and Phenylalanine Metabolism
+TRPS3,Tyrosine Tryptophan and Phenylalanine Metabolism
+TYRPpp,Tyrosine Tryptophan and Phenylalanine Metabolism
+TYRTA,Tyrosine Tryptophan and Phenylalanine Metabolism
+ACONIs,Unassigned
+ACONMT,Unassigned
+ALPATE160pp,Unassigned
+ALPATG160pp,Unassigned
+ATPM,Unassigned
+BETALDHx,Unassigned
+BETALDHy,Unassigned
+CAT,Unassigned
+CBMKr,Unassigned
+CHOLD,Unassigned
+CYANST,Unassigned
+DSBAO1,Unassigned
+DSBAO2,Unassigned
+DSBCGT,Unassigned
+DSBDR,Unassigned
+DSBGGT,Unassigned
+FLDR2,Unassigned
+GRXR,Unassigned
+GTHPi,Unassigned
+HCO3E,Unassigned
+OXAMTC,Unassigned
+PPTHpp,Unassigned
+SELNPS,Unassigned
+SPODM,Unassigned
+SPODMpp,Unassigned
+THIORDXi,Unassigned
+URIC,Unassigned
+ACHBS,Valine Leucine and Isoleucine Metabolism
+ACLS,Valine Leucine and Isoleucine Metabolism
+DHAD1,Valine Leucine and Isoleucine Metabolism
+DHAD2,Valine Leucine and Isoleucine Metabolism
+ILETA,Valine Leucine and Isoleucine Metabolism
+IPMD,Valine Leucine and Isoleucine Metabolism
+IPPMIa,Valine Leucine and Isoleucine Metabolism
+IPPMIb,Valine Leucine and Isoleucine Metabolism
+IPPS,Valine Leucine and Isoleucine Metabolism
+KARA1,Valine Leucine and Isoleucine Metabolism
+KARA2,Valine Leucine and Isoleucine Metabolism
+LEUTAi,Valine Leucine and Isoleucine Metabolism
+OMCDC,Valine Leucine and Isoleucine Metabolism
+THRD_L,Valine Leucine and Isoleucine Metabolism
+VALTA,Valine Leucine and Isoleucine Metabolism
+VPAMTr,Valine Leucine and Isoleucine Metabolism
+netFlux,Unassigned

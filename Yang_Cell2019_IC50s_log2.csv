@@ -1,0 +1,385 @@
+﻿Well,Metabolite,AMP IC50,CIP IC50,GENT IC50
+1A01,Negative Control,0.00E+00,0.00E+00,0.00E+00
+1A02,L-Arabinose,1.56E-01,1.78E-01,-3.82E-01
+1A03,N-Acetyl-DGlucosamine,8.11E-02,3.54E-04,-3.75E-01
+1A04,D-Saccharic Acid,-3.73E-02,-4.09E-01,1.79E-01
+1A05,Succinic Acid,-3.22E-02,-1.49E-01,3.53E-01
+1A06,D-Galactose,1.17E-01,-3.42E-01,-8.93E-02
+1A07,L-Aspartic Acid,5.47E-02,-4.26E-01,1.31E-01
+1A08,L-Proline,3.98E-02,-4.66E-02,9.30E-02
+1A09,D-Alanine,-6.47E-01,-4.45E-01,1.36E-01
+1A10,D-Trehalose,3.90E-02,-4.16E-01,-1.12E-01
+1A11,D-Mannose,1.66E-01,-4.45E-01,-4.14E-01
+1A12,Dulcitol,4.24E-02,-5.18E-01,-1.71E-01
+1B01,D-Serine,-1.09E+00,-4.36E-01,1.01E-01
+1B02,D-Sorbitol,9.12E-02,2.40E-02,-1.81E-01
+1B03,Glycerol,1.30E-01,-5.09E-02,1.07E-02
+1B04,L-Fucose,8.36E-02,-4.04E-01,-2.02E-01
+1B05,D-GlucuronicAcid,7.31E-02,2.04E+00,-6.18E-02
+1B06,D-Gluconic Acid,9.24E-02,-6.87E-02,-1.84E-01
+1B07,DL-α-Glycerol-Phosphate,4.56E-02,-4.43E-01,6.05E-02
+1B08,D-Xylose,1.51E-01,-3.72E-01,-4.35E-01
+1B09,L-Lactic Acid,2.24E-02,-6.52E-01,8.68E-02
+1B10,Formic Acid,1.33E-01,-6.60E-01,8.66E-01
+1B11,D-Mannitol,5.91E-02,-5.49E-01,4.17E-02
+1B12,L-Glutamic Acid,4.46E-02,-4.74E-01,1.07E-01
+1C01,Glucose-6-Phosphate,1.98E-01,2.30E-01,1.90E-01
+1C02,D-GalactonicAcid-γ-Lactone,-1.01E-01,4.16E-01,2.13E-01
+1C03,DL-Malic Acid,-5.55E-02,-4.76E-01,5.45E-01
+1C04,D-Ribose,5.96E-02,-3.85E-01,-2.31E-01
+1C05,Tween 20,2.71E-01,-1.39E-01,-2.79E-01
+1C06,L-Rhamnose,7.39E-02,-5.23E-01,-2.19E-01
+1C07,D-Fructose,4.28E-03,-4.86E-01,-1.18E-01
+1C08,Acetic Acid,1.93E-01,-5.12E-01,5.38E-01
+1C09,α-D-Glucose,9.37E-02,-4.39E-01,1.42E-02
+1C10,Maltose,9.22E-02,-4.96E-01,-1.39E-01
+1C11,D-Melibiose,6.43E-02,-2.38E-01,-8.88E-02
+1C12,Thymidine,7.25E-02,-6.04E-01,3.44E-02
+1D01,L-Asparagine,1.16E-01,-1.51E+00,7.28E-01
+1D02,D-Aspartic Acid,2.50E-01,-1.19E+00,3.98E-01
+1D03,D-GlucosaminicAcid,-1.15E-01,-2.40E-01,2.08E-01
+1D04,12-Propanediol,3.42E-02,-2.12E-01,1.55E-01
+1D05,Tween 40,2.67E-01,1.66E+00,-7.51E-02
+1D06,α-Keto-GlutaricAcid,-1.15E-01,-6.28E-02,4.45E-01
+1D07,α-Keto-ButyricAcid,4.29E-01,-4.39E-01,7.14E-01
+1D08,α-Methyl-DGalactoside,1.98E-02,-6.92E-01,-3.86E-01
+1D09,α-D-Lactose,3.90E-02,-6.32E-01,-6.78E-02
+1D10,Lactulose,5.78E-02,-3.53E-01,-4.80E-02
+1D11,Sucrose,3.06E-02,-4.70E-01,-8.95E-02
+1D12,Uridine,-4.17E-02,-5.97E-01,2.47E-01
+1E01,L-Glutamine,-8.04E-03,-1.39E+00,-1.20E-01
+1E02,M-Tartaric Acid,2.64E-01,7.92E-01,3.13E-01
+1E03,Glucose-1-Phosphate,-3.23E-03,6.97E-02,1.48E-01
+1E04,Fructose-6-Phosphate,2.52E-01,2.68E-01,-1.69E-01
+1E05,Tween 80,2.79E-01,1.05E+00,-5.09E-02
+1E06,α-HydroxyGlutaric Acid-γ-Lactone,2.93E-02,-4.10E-01,2.46E-01
+1E07,α-HydroxyButyric Acid,7.84E-02,5.91E-01,5.09E-01
+1E08,β-Methyl-D-Glucoside,6.23E-02,-1.59E+00,9.03E-03
+1E09,Adonitol,8.02E-02,-3.19E-01,-2.69E-03
+1E10,Maltotriose,3.12E-02,-4.51E-01,-3.77E-01
+1E11,2-DeoxyAdenosine,1.57E-01,-6.48E-01,-1.69E-01
+1E12,Adenosine,1.76E-01,-2.08E-01,-7.27E-02
+1F01,Glycyl-L-AsparticAcid,-5.05E-01,-9.46E-01,8.40E-01
+1F02,Citric Acid,2.02E-02,-6.68E-01,3.16E-01
+1F03,M-Inositol,8.03E-02,-4.75E-01,3.52E-02
+1F04,D-Threonine,-1.43E+00,-3.39E-01,5.54E-01
+1F05,Fumaric Acid,1.17E-01,4.15E-01,7.09E-01
+1F06,Bromo SuccinicAcid,-1.29E-02,-3.64E-01,7.07E-01
+1F07,Propionic Acid,9.87E-02,-2.69E-02,2.35E-01
+1F08,Mucic Acid,-1.84E-02,-3.32E-01,5.15E-01
+1F09,Glycolic Acid,5.96E-02,-6.44E-01,3.51E-01
+1F10,Glyoxylic Acid,6.63E-01,-1.05E+00,1.20E+00
+1F11,D-Cellobiose,1.09E-01,-3.16E-01,-1.27E-01
+1F12,Inosine,4.16E-02,-1.77E-01,-6.44E-02
+1G01,Glycyl-LGlutamicAcid,-6.45E-03,-2.99E-01,-4.14E-01
+1G02,TricarballylicAcid,-5.49E-02,-2.14E-01,2.83E-01
+1G03,L-Serine,1.29E-01,-9.07E-01,-2.96E-01
+1G04,L-Threonine,2.31E-02,-1.35E+00,2.32E-01
+1G05,L-Alanine,2.99E-01,-1.49E+00,1.89E-01
+1G06,L-Alanyl-Glycine,-2.52E-02,-1.14E+00,2.53E-01
+1G07,Acetoacetic Acid,8.00E-01,-1.94E+00,3.74E-01
+1G08,N-Acetyl-β-DMannosamine,1.00E-01,-5.54E-01,-5.13E-02
+1G09,Mono MethylSuccinate,8.65E-02,2.43E+00,2.22E-01
+1G10,Methyl Pyruvate,2.89E-02,-8.37E-01,3.97E-01
+1G11,D-Malic Acid,2.40E-02,-9.35E-01,3.25E-01
+1G12,L-Malic Acid,-8.73E-03,-5.23E-01,2.74E-01
+1H01,Glycyl-L-Proline,1.30E-01,-2.59E-01,-2.51E-02
+1H02,P-HydroxyPhenyl AceticAcid,2.06E-01,2.13E-01,-1.30E-01
+1H03,M-HydroxyPhenyl AceticAcid,1.07E-01,-4.26E-02,-2.26E-01
+1H04,Tyramine,5.09E-02,-8.69E-01,4.10E-01
+1H05,D-Psicose,1.03E-01,-3.89E-01,-2.99E-01
+1H06,L-Lyxose,1.74E-01,-7.05E-01,-5.15E-01
+1H07,Glucuronamide,1.39E-01,-3.78E-01,-2.81E-01
+1H08,Pyruvic Acid,1.75E-01,-1.23E+00,2.49E-02
+1H09,L-GalactonicAcid-γ-Lactone,7.98E-02,-3.70E-01,-2.25E-01
+1H10,D-GalacturonicAcid,5.19E-02,-3.01E-01,-1.68E-01
+1H11,Phenylethylamine,4.72E-01,-8.32E-01,6.46E-01
+1H12,2-Aminoethanol,3.38E-02,-3.86E-01,5.33E-02
+2A01,Negative Control,0.00E+00,0.00E+00,0.00E+00
+2A02,ChondroitinSulfate C,2.30E-01,4.06E-01,-1.33E-01
+2A03,α-Cyclodextrin,6.18E-02,-2.61E-01,-2.03E-01
+2A04,β-Cyclodextrin,6.11E-02,-5.58E-01,-1.94E-01
+2A05,γ-Cyclodextrin,7.83E-02,-4.97E-01,-2.40E-01
+2A06,Dextrin,1.59E-01,-8.75E-02,-2.09E-01
+2A07,Gelatin,1.55E-01,-3.65E-01,-2.41E-01
+2A08,Glycogen,5.85E-02,5.01E-02,-2.27E-01
+2A09,Inulin,8.03E-03,-4.25E-01,-4.33E-01
+2A10,Laminarin,-3.36E-02,-3.05E-01,-8.16E-02
+2A11,Mannan,1.63E-01,-4.90E-01,-3.25E-01
+2A12,Pectin,1.19E-01,1.39E+00,1.21E-01
+2B01,N-Acetyl-DGalactosamine,2.34E-02,-3.06E-01,-3.78E-01
+2B02,N-Acetyl-Neuraminic Acid,4.15E-02,-5.10E-01,-2.87E-01
+2B03,β-D-Allose,1.26E-01,-9.74E-01,-3.06E-01
+2B04,Amygdalin,8.68E-02,-2.20E-01,-3.43E-01
+2B05,D-Arabinose,1.16E-01,-8.28E-01,-4.04E-01
+2B06,D-Arabitol,2.55E-02,-3.71E-01,-1.33E-01
+2B07,L-Arabitol,4.17E-02,-6.27E-01,-1.84E-01
+2B08,Arbutin,-2.13E-02,-6.09E-01,-4.17E-01
+2B09,2-Deoxy-DRibose,4.44E-01,1.26E-01,-4.72E-01
+2B10,I-Erythritol,2.81E-02,-3.70E-01,-1.50E-01
+2B11,D-Fucose,1.16E-01,-5.04E-01,-1.33E-01
+2B12,3-0-β-D-Galactopyranosyl-DArabinose,5.49E-01,-4.97E-01,-6.59E-02
+2C01,Gentiobiose,1.08E-01,-6.50E-02,-2.97E-01
+2C02,L-Glucose,6.42E-02,-4.28E-01,-2.26E-01
+2C03,Lactitol,5.29E-02,1.59E-02,-2.05E-01
+2C04,D-Lyxose,5.89E-02,-5.08E-02,-1.09E-01
+2C05,Maltitol,7.40E-02,1.66E-03,-1.45E-01
+2C06,α-Methyl-DGalactoside,1.49E-01,-4.10E-01,-2.59E-01
+2C07,β-Methyl-DGalactoside,2.70E-02,1.32E-01,-1.89E-01
+2C08,3-Methyl Glucose,2.18E-01,-7.95E-02,-2.57E-01
+2C09,β-Methyl-DGlucuronicAcid,1.74E-02,-3.24E-01,-1.72E-01
+2C10,α-Methyl-DMannoside,2.73E-02,-6.55E-01,-3.15E-01
+2C11,β-Methyl-DXyloside,-2.28E-01,-5.68E-01,-1.34E-01
+2C12,Palatinose,2.02E-01,-8.42E-01,-4.30E-01
+2D01,D-Raffinose,4.03E-02,-2.12E-01,-2.14E-01
+2D02,Salicin,9.01E-03,-6.44E-01,-2.12E-01
+2D03,Sedoheptulosan,8.62E-02,6.39E-02,-1.09E-01
+2D04,L-Sorbose,1.45E-01,1.20E-01,-2.76E-01
+2D05,Stachyose,8.13E-02,1.16E-01,-1.84E-01
+2D06,D-Tagatose,2.31E-01,1.50E-01,-4.61E-01
+2D07,Turanose,7.85E-02,1.00E-01,-1.96E-01
+2D08,Xylitol,9.78E-02,4.77E-02,-1.53E-01
+2D09,L-Xylose,2.50E-01,2.44E-01,-3.53E-01
+2D10,γ-Amino ButyricAcid,6.60E-02,-4.69E-01,-1.59E-01
+2D11,D-Amino ValericAcid,3.87E-02,-3.19E-01,-3.05E-02
+2D12,Butyric Acid,8.48E-02,-1.12E-01,-2.97E-01
+2E01,Capric Acid,6.75E-01,-1.81E-01,-3.58E-01
+2E02,Caproic Acid,6.59E-01,1.09E+00,3.89E-01
+2E03,Citraconic Acid,-1.90E-03,-2.19E-01,2.25E-01
+2E04,Citramalic Acid,2.76E-02,-8.63E-02,3.36E-01
+2E05,DihydroxyFumaric Acid,1.45E-01,2.45E-01,-1.62E-01
+2E06,2-HydroxyBenzoic Acid,1.70E+00,3.22E+00,-1.28E+00
+2E07,4-HydroxyBenzoic Acid,3.11E-01,7.67E-01,-2.51E-01
+2E08,β-HydroxyButyric Acid,1.35E-01,4.65E-01,1.70E-01
+2E09,γ-HydroxyButyric Acid,8.20E-02,-2.53E-01,1.43E-02
+2E10,β-HydroxyPyruvic Acid,5.27E-01,-5.36E-01,1.42E+00
+2E11,Itaconic Acid,8.30E-02,-4.20E-01,1.47E+00
+2E12,5-Keto-DGluconicAcid,-1.86E-02,-8.64E-01,-9.85E-02
+2F01,D-Lactic AcidMethyl Ester,-2.08E-01,-7.72E-02,-1.51E-01
+2F02,Malonic Acid,-1.51E-02,-4.35E-01,8.10E-02
+2F03,Melibionic Acid,1.99E-01,-4.25E-01,-1.34E-01
+2F04,Oxalic Acid,5.36E-02,-3.32E-01,2.40E-01
+2F05,Oxalomalic Acid,4.30E-01,-2.03E-01,7.96E-02
+2F06,Quinic Acid,6.96E-03,-5.85E-02,-1.48E-01
+2F07,D-Ribono-14-Lactone,-2.18E-01,-2.61E-02,-4.16E-04
+2F08,Sebacic Acid,1.66E-01,2.37E-01,1.21E-01
+2F09,Sorbic Acid,8.52E-01,-5.81E-01,1.40E+00
+2F10,Succinamic Acid,3.56E-02,-2.32E-01,3.95E-02
+2F11,D-Tartaric Acid,2.09E-01,-2.33E-01,1.11E-01
+2F12,L-Tartaric Acid,1.42E-01,6.69E-01,3.99E-01
+2G01,Acetamide,1.16E-01,-1.55E-01,-2.63E-01
+2G02,L-Alaninamide,1.21E-01,-4.29E-01,5.61E-02
+2G03,N-Acetyl-LGlutamicAcid,-2.96E-02,-4.61E-01,5.30E-02
+2G04,L-Arginine,2.95E-01,-5.75E-01,-2.75E-01
+2G05,Glycine,-4.80E-01,-2.36E-01,4.18E-01
+2G06,L-Histidine,5.85E-02,-3.92E-01,4.77E-02
+2G07,L-Homoserine,7.17E-01,-6.25E-02,-4.57E-01
+2G08,Hydroxy-LProline,9.01E-02,-3.07E-01,-8.12E-02
+2G09,L-Isoleucine,1.53E-01,1.29E-01,-3.53E-01
+2G10,L-Leucine,4.21E-01,6.45E-01,-7.57E-02
+2G11,L-Lysine,1.55E-01,-2.67E-01,-8.86E-02
+2G12,L-Methionine,1.17E-02,-4.82E-01,5.96E-02
+2H01,L-Ornithine,3.86E-01,-5.63E-02,-9.74E-02
+2H02,L-Phenylalanine,2.21E-01,-7.59E-01,-2.28E-01
+2H03,L-PyroglutamicAcid,1.21E-01,-2.74E-01,3.25E-02
+2H04,L-Valine,7.34E-01,-6.30E-01,2.46E-01
+2H05,DL-Carnitine,9.18E-02,-4.86E-01,-1.23E-01
+2H06,Sec-Butylamine,1.02E-02,-6.53E-01,3.56E-01
+2H07,D.L-Octopamine,6.75E-02,-7.89E-01,4.24E-01
+2H08,Putrescine,2.90E-01,-3.48E-01,3.54E-01
+2H09,DihydroxyAcetone,7.04E-01,-2.43E-01,-7.69E-01
+2H10,23-Butanediol,5.53E-02,-5.03E-01,-1.29E-01
+2H11,23-Butanone,1.05E+00,-1.23E+00,-7.88E-01
+2H12,3-Hydroxy 2-Butanone,1.39E-02,-7.40E-01,-1.31E-01
+3A01,Negative Control,0.00E+00,0.00E+00,0.00E+00
+3A02,Ammonia,8.19E-02,-7.44E-02,1.39E-02
+3A03,Nitrite,3.46E-01,5.22E-01,4.29E-01
+3A04,Nitrate,-1.55E-01,-2.91E-02,3.17E-01
+3A05,Urea,6.88E-02,2.07E-01,5.35E-02
+3A06,Biuret,8.58E-02,2.82E-01,9.57E-02
+3A07,L-Alanine,6.17E-02,-1.51E-01,3.38E-01
+3A08,L-Arginine,1.55E-01,7.88E-02,5.84E-01
+3A09,L-Asparagine,3.27E-02,-3.30E-02,2.61E-02
+3A10,L-AsparticAcid,-4.30E-02,2.16E-01,2.20E-01
+3A11,L-Cysteine,3.09E-01,3.11E-01,1.14E+00
+3A12,L-GlutamicAcid,-1.33E-01,1.96E-01,3.39E-01
+3B01,L-Glutamine,-2.82E-01,-7.42E-02,1.97E-01
+3B02,Glycine,-2.84E-01,-1.56E-01,1.14E+00
+3B03,L-Histidine,1.12E-01,2.28E-01,4.15E-01
+3B04,L-Isoleucine,2.28E-01,8.63E-01,-1.70E-01
+3B05,L-Leucine,4.52E-01,1.43E+00,2.60E-02
+3B06,L-Lysine,1.09E-01,2.31E-02,4.97E-01
+3B07,L-Methionine,-3.84E-01,-2.80E-03,5.92E-01
+3B08,L-Phenylalanine,5.15E-02,3.99E-01,1.51E-01
+3B09,L-Proline,-1.12E-01,5.70E-02,2.33E-01
+3B10,L-Serine,1.60E-01,1.49E-01,-2.69E-01
+3B11,L-Threonine,-2.08E-01,1.23E+00,3.65E-01
+3B12,L-Tryptophan,1.93E-01,1.12E+00,3.33E-01
+3C01,L-Tyrosine,1.95E-01,2.84E-01,4.64E-01
+3C02,L-Valine,1.08E+00,-2.04E-01,9.03E-01
+3C03,D-Alanine,-1.96E-01,1.37E-01,4.35E-01
+3C04,D-Asparagine,7.85E-02,8.37E-02,1.31E-01
+3C05,D-AsparticAcid,3.84E-01,-1.89E-01,-3.30E-01
+3C06,D-GlutamicAcid,4.25E-01,-2.14E-01,-2.76E-01
+3C07,D-Lysine,-8.54E-02,-1.87E-01,1.27E-01
+3C08,D-Serine,-1.27E-01,2.39E+00,-6.07E-02
+3C09,D-Valine,3.27E-01,4.73E-01,-4.20E-02
+3C10,L-Citrulline,2.17E-02,-2.24E-01,3.01E-01
+3C11,L-Homoserine,5.50E-01,1.53E-01,-5.11E-01
+3C12,L-Ornithine,1.81E-01,5.33E-01,9.07E-01
+3D01,N-Acetyl-DL-GlutamicAcid,1.20E-01,-1.11E-02,2.38E-01
+3D02,N-Phthaloyl-L-GlutamicAcid,-2.01E-01,1.35E-01,5.55E-01
+3D03,L-PyroglutamicAcid,1.45E-01,2.03E-01,4.65E-01
+3D04,Hyroxylamine,3.80E+00,-1.03E+00,-1.01E+01
+3D05,Methylamine,2.04E-01,1.73E-01,2.48E-01
+3D06,N-Amylamine,2.42E-01,9.55E-02,8.22E-01
+3D07,N-Butylamine,2.05E-01,8.06E-02,4.00E-01
+3D08,Ethylamine,1.55E-01,1.83E-01,1.26E-01
+3D09,Ethanolamine,4.17E-03,2.88E-01,6.42E-01
+3D10,Ethylenediamine,1.54E-01,3.78E-01,1.45E+00
+3D11,Putrescine,2.21E-01,4.99E-01,1.62E+00
+3D12,Agmatine,1.05E-01,3.81E-01,1.56E+00
+3E01,Histamine,7.03E-02,-5.13E-02,1.51E+00
+3E02,β-Phenylethyl-amine,1.30E-01,9.92E-02,1.56E+00
+3E03,Tyramine,-2.09E-02,1.02E-01,1.13E+00
+3E04,Acetamide,9.11E-02,4.17E-01,1.74E-01
+3E05,Formamide,1.78E-01,2.21E-01,3.86E-01
+3E06,Glucuronamide,7.13E-02,7.58E-01,6.21E-01
+3E07,DL-Lactamide,1.01E-01,2.93E-01,8.26E-02
+3E08,D-Glucosamine,7.49E-02,4.08E-01,1.72E-01
+3E09,D-Galactosamine,2.40E-01,5.15E-01,2.34E-01
+3E10,D-Mannosamine,3.31E-02,3.85E-01,2.54E-01
+3E11,N-Acetyl-D-Glucosamine,1.25E-01,5.88E-01,1.51E-01
+3E12,N-Acetyl-D-Galactosamine,9.01E-02,5.85E-01,-2.83E-02
+3F01,N-Acetyl-D-Mannosamine,2.46E-02,4.85E-02,-4.71E-03
+3F02,Adenine,7.75E-01,1.80E+00,1.26E-02
+3F03,Adenosine,4.29E-01,9.42E-01,1.41E-01
+3F04,Cytidine,-3.93E-01,2.89E-01,3.46E-01
+3F05,Cytosine,-4.65E-01,1.99E-01,1.93E-01
+3F06,Guanine,9.21E-01,3.52E-01,8.99E-01
+3F07,Guanosine,2.15E-01,-2.71E-01,2.76E-01
+3F08,Thymine,1.31E-01,5.66E-01,2.71E-01
+3F09,Thymidine,6.78E-02,5.81E-01,3.13E-02
+3F10,Uracil,-3.21E-01,3.46E-01,2.35E-01
+3F11,Uridine,-4.05E-01,5.78E-01,1.63E-01
+3F12,Inosine,2.17E-01,1.42E+00,1.19E-01
+3G01,Xanthine,3.34E-01,-1.56E-02,4.25E-01
+3G02,Xanthosine,4.14E-01,7.05E-01,2.24E-01
+3G03,UricAcid,7.71E-01,2.19E-01,6.09E-01
+3G04,Alloxan,-4.22E-02,2.93E-01,2.42E-01
+3G05,Allantoin,1.89E-02,1.58E-01,1.90E-01
+3G06,ParabanicAcid,-1.77E-01,5.86E-02,3.09E-01
+3G07,DL-α-Amino-N-ButyricAcid,-1.37E-01,6.28E-01,2.54E-01
+3G08,γ-Amino-N-ButyricAcid,8.70E-03,1.70E-01,1.49E-01
+3G09,ε-Amino-N-CaproicAcid,-3.77E-02,2.21E-01,1.56E-01
+3G10,DL-α-Amino-CaprylicAcid,7.17E-01,-2.89E-01,8.94E-01
+3G11,D-Amino-N-ValericAcid,1.08E-01,4.44E-01,1.47E-01
+3G12,2-Amino-N-ValericAcid,4.36E-01,1.42E+00,3.33E-01
+3H01,Ala-Asp,-1.81E-01,1.49E-01,8.01E-01
+3H02,Ala-Gln,-5.90E-01,3.72E-01,2.73E-01
+3H03,Ala-Glu,-4.00E-01,1.92E-01,4.91E-01
+3H04,Ala-Gly,-1.61E-01,-1.73E-01,4.53E-01
+3H05,Ala-His,-2.23E-02,-2.39E-01,1.40E-01
+3H06,Ala-Leu,4.07E-01,1.73E+00,2.73E-01
+3H07,Ala-Thr,-1.01E-01,5.33E-01,3.34E-01
+3H08,Gly-Asn,-4.90E-01,-6.32E-01,4.42E-01
+3H09,Gly-Gln,-4.48E-01,-1.82E-01,2.60E-01
+3H10,Gly-Glu,-3.87E-01,4.42E-01,5.33E-01
+3H11,Gly-Met,-2.77E-01,2.89E-01,4.40E-01
+3H12,Met-Ala,-1.28E-01,4.47E-02,4.41E-01
+4A01,Negative Control,0.00E+00,0.00E+00,0.00E+00
+4A02,Phosphate,3.59E-02,3.51E-02,3.06E-01
+4A03,Pyrophosphate,3.20E-01,-1.85E+00,1.95E+00
+4A04,Trimeta-phosphate,2.06E-01,1.24E-01,3.09E-01
+4A05,Tripoly-phosphate,1.66E-01,-2.49E-01,5.90E-01
+4A06,TriethylPhosphate,1.29E-01,1.83E+00,1.65E-01
+4A07,Hypophosphite,2.81E-01,4.52E-01,2.57E-01
+4A08,Adenosine-2-monophosphate,6.93E-02,1.84E+00,1.65E-01
+4A09,Adenosine-3-monophosphate,3.94E-01,4.46E-01,2.41E-02
+4A10,Adenosine-5-monophosphate,4.52E-01,8.73E-01,-3.67E-01
+4A11,Adenosine-23-cyclicmonophosphate,2.84E-01,5.62E-01,1.31E-02
+4A12,Adenosine-35-cyclicmonophosphate,3.07E-01,2.05E-01,1.30E-01
+4B01,Thiophosphate,-5.37E-02,2.89E-01,3.66E-01
+4B02,Dithiophosphate,5.80E-02,4.59E-01,1.25E+00
+4B03,DL-α-GlycerolPhosphate,5.66E-02,2.62E-01,2.40E-01
+4B04,β-GlycerolPhosphate,2.83E-01,5.42E-01,-7.89E-02
+4B05,L-α-Phosphatidyl-DL-Glycerol,4.82E-01,6.84E-01,2.44E+00
+4B06,D-2-Phospho-GlycericAcid,1.85E-01,1.31E-01,3.01E-01
+4B07,D-3-Phospho-GlycericAcid,1.95E-01,9.04E-02,2.53E-01
+4B08,Guanosine-2-monophosphate,1.50E-01,6.17E-01,3.63E-02
+4B09,Guanosine-3-monophosphate,3.50E-01,1.03E+00,-2.53E-01
+4B10,Guanosine-5-monophosphate,3.98E-01,9.93E-01,4.09E-02
+4B11,Guanosine-23-cyclicmonophosphate,4.13E-01,1.29E+00,-8.93E-02
+4B12,Guanosine-cyclicmonophosphate,1.35E-01,7.47E-01,2.62E-01
+4C01,PhosphoenolPyruvate,9.22E-02,3.13E-01,2.44E-01
+4C02,Phospho-GlycolicAcid,1.64E-01,-1.42E-01,5.83E-01
+4C03,D-Glucose-1-Phosphate,1.44E-01,2.83E-01,2.60E-01
+4C04,D-Glucose-6-Phosphate,1.78E-01,-1.09E-01,1.68E-01
+4C05,2-Deoxy-D-Glucose6-Phosphate,8.51E-01,4.94E-01,9.18E-02
+4C06,D-Glucosamine-6-Phosphate,3.73E-01,4.27E-01,3.55E-01
+4C07,6-Phospho-GluconicAcid,1.59E-01,3.02E-01,2.19E-01
+4C08,Cytidine-2-monophosphate,-2.80E-01,2.81E-01,4.70E-01
+4C09,Cytidine-3-monophosphate,-3.02E-01,4.83E-01,1.39E-01
+4C10,Cytidine-5-monophosphate,-2.74E-01,5.66E-02,2.04E-01
+4C11,Cytidine-23-cyclicmonophosphate,-3.65E-01,2.59E-01,6.25E-02
+4C12,Cytidine-35-cyclicmonophosphate,1.85E-01,6.44E-01,1.09E-01
+4D01,D-Mannose-1-Phosphate,-7.27E-03,-1.75E-01,6.00E-02
+4D02,D-Mannose-6-Phosphate,1.44E-01,9.37E-02,2.95E-01
+4D03,Cysteamine-S-Phosphate,-7.98E-02,1.56E-01,8.60E-01
+4D04,Phospho-L-Arginine,1.31E-01,3.93E-01,5.41E-01
+4D05,O-Phospho-D-Serine,2.11E-01,3.62E-01,2.71E-01
+4D06,O-Phospho-L-Serine,2.40E-01,3.87E-01,3.19E-01
+4D07,O-Phospho-L-Threonine,1.82E-01,3.61E-01,2.15E-01
+4D08,Uridine-2-monophosphate,-1.48E-01,4.86E-01,1.18E-01
+4D09,Uridine-3-monophosphate,-3.48E-01,4.39E-01,2.52E-01
+4D10,Uridine-5-monophosphate,-3.20E-01,3.32E-01,1.70E-01
+4D11,Uridine-23-cyclicmonophosphate,-3.60E-01,3.22E-01,2.02E-01
+4D12,Uridine-35-cyclicmonophosphate,2.01E-01,5.69E-01,2.18E-01
+4E01,O-Phospho-D-Tyrosine,3.30E-01,-1.00E-01,8.39E-02
+4E02,O-Phospho-L-Tyrosine,1.08E-01,8.44E-02,1.90E-01
+4E03,Phosphocreatine,1.69E-01,1.57E-01,1.03E-01
+4E04,PhosphorylCholine,3.33E-01,4.31E-01,3.02E-01
+4E05,O-Phosphoryl-Ethanolamine,1.02E-01,4.10E-01,2.34E-01
+4E06,PhosphonoAceticAcid,1.92E-01,3.53E-01,1.77E-01
+4E07,2-AminoethylPhosphonicAcid,2.35E-01,4.02E-01,4.17E-02
+4E08,MethyleneDiphosphonicAcid,5.17E-02,1.09E+00,5.56E-01
+4E09,Thymidine-3-Monophosphate,1.30E-01,6.62E-01,1.79E-01
+4E10,Thymidine-5-Monophosphate,1.26E-01,4.61E-01,1.34E-01
+4E11,InositolHexaphosphate,1.37E-01,7.16E-02,2.28E+00
+4E12,Thymidine35-cyclicmonophosphate,1.56E-01,5.03E-01,2.13E-01
+4F01,Negative Control,0.00E+00,0.00E+00,0.00E+00
+4F02,Sulfate,2.33E-02,1.95E-01,1.82E-01
+4F03,Thiosulfate,1.12E-02,5.92E-01,3.04E-01
+4F04,Tetrathionate,5.46E-02,5.30E-01,6.07E-02
+4F05,Thiophosphate,1.97E-01,4.66E-01,1.91E-01
+4F06,Dithiophosphate,1.03E-01,6.32E-01,2.90E-01
+4F07,L-Cysteine,9.15E-02,6.92E-01,9.67E-01
+4F08,D-Cysteine,1.00E-01,6.62E-01,2.48E-01
+4F09,L-Cysteinyl-Glycine,-3.60E-02,8.56E-01,4.29E-01
+4F10,L-CysteicAcid,1.52E-01,5.12E-01,2.30E-01
+4F11,Cysteamine,-4.77E-02,1.90E-01,3.63E-01
+4F12,L-CysteineSulfinicAcid,5.76E-02,6.71E-01,3.89E-01
+4G01,N-Acetyl-L-Cysteine,-2.14E-02,3.15E-02,-1.29E-01
+4G02,S-Methyl-L-Cysteine,2.02E-02,4.77E-01,6.89E-01
+4G03,Cystathionine,5.21E-03,1.07E-01,3.15E-01
+4G04,Lanthionine,1.44E-01,2.74E-01,3.02E-01
+4G05,Glutathione,1.58E-01,1.51E-01,1.14E-01
+4G06,DL-Ethionine,1.43E-01,2.37E-01,-1.54E-02
+4G07,L-Methionine,-3.26E-01,1.87E-01,4.83E-01
+4G08,D-Methionine,3.41E-02,4.36E-01,2.40E-01
+4G09,Glycyl-L-Methionine,-3.67E-01,1.60E-01,8.24E-01
+4G10,N-Acetyl-DL-Methionine,1.19E-02,8.10E-01,1.53E-01
+4G11,L-MethionineSulfoxide,-3.17E-01,6.59E-01,5.59E-01
+4G12,L-MethionineSulfone,7.43E-01,1.37E+00,-3.39E-01
+4H01,L-DjenkolicAcid,1.05E+00,1.80E+00,2.90E-01
+4H02,Thiourea,4.72E-02,6.49E-01,4.34E-02
+4H03,1-Thio-β-D-Glucose,4.88E-02,4.84E-01,1.97E-01
+4H04,DL-Lipoamide,4.08E-02,4.89E-01,4.70E-01
+4H05,TaurocholicAcid,1.65E-01,1.98E+00,7.38E-01
+4H06,Taurine,4.19E-02,3.87E-01,1.57E-01
+4H07,Hypotaurine,6.75E-02,4.42E-01,1.52E-01
+4H08,P-AminoBenzeneSulfonicAcid,8.25E-02,5.11E-01,1.06E-01
+4H09,ButaneSulfonicAcid,1.36E-01,6.84E-01,5.93E-02
+4H10,2-HydroxyethaneSulfonicAcid,1.04E-01,5.06E-01,1.87E-01
+4H11,MethaneSulfonicAcid,2.96E-02,8.29E-01,4.18E-01
+4H12,TetramethyleneSulfone,8.07E-02,7.74E-01,1.81E-01
